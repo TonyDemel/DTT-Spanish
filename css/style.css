@@ -1,0 +1,21 @@
+:root { --primary: #2c3e50; --accent: #3498db; --success: #27ae60; --error: #e74c3c; --bg: #f4f7f6; }
+body { font-family: sans-serif; background: var(--bg); padding: 15px; margin: 0; text-align: center; }
+.hidden { display: none !important; }
+.menu-container { max-width: 400px; margin: auto; }
+.main-menu-btn { width: 100%; padding: 15px; margin: 10px 0; border: none; border-radius: 8px; background: var(--primary); color: white; cursor: pointer; font-size: 1rem; }
+.action-btn { background: var(--accent); }
+.official-btn { background: #8e44ad; }
+.submenu { background: #eee; padding: 10px; border-radius: 8px; }
+.sub-btn { width: 100%; padding: 10px; margin: 4px 0; border: 1px solid #ccc; cursor: pointer; background: white; border-radius: 5px; }
+.card { background: white; padding: 20px; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); max-width: 500px; margin: auto; }
+#question-image { width: 100%; max-height: 250px; object-fit: contain; margin-bottom: 15px; }
+.text-en { color: #666; font-style: italic; font-size: 0.9rem; }
+.text-es { font-weight: bold; font-size: 1.1rem; }
+.options-grid { display: grid; gap: 10px; margin-top: 15px; }
+.option-btn { padding: 12px; border: 2px solid #ddd; border-radius: 8px; background: white; cursor: pointer; text-align: left; }
+.correct { background: var(--success) !important; color: white; }
+.incorrect { background: var(--error) !important; color: white; }
+.nav-controls { display: flex; justify-content: space-between; margin-top: 20px; }
+.nav-btn { padding: 10px 20px; border: none; background: var(--primary); color: white; border-radius: 5px; cursor: pointer; }
+#max-label { font-size: 0.8rem; color: #555; margin: 5px 0; }
+input[type="number"] { width: 60px; padding: 5px; margin-bottom: 10px; }

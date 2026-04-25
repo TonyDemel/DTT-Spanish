@@ -1,0 +1,2070 @@
+[
+  {
+    "id": 1,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What is a likely consequence of sudden braking?",
+    "pregunta_es": "¿Cuál es una consecuencia probable de un frenado repentino?",
+    "imagen": null,
+    "opciones_es": [
+      "The vehicle could be hit from behind. (El vehículo podría ser golpeado por detrás.)",
+      "The vehicle could be overtaken. (El vehículo podría ser rebasado.)",
+      "The vehicle's braking system could overheat. (El sistema de frenos del vehículo podría sobrecalentarse.)",
+      "There will be no consequences as the vehicle's brake lights will come on. (No habrá consecuencias ya que las luces de freno del vehículo se encenderán.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 2,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "If the brake pedal of a vehicle feels soft or spongy when applied, what does this mean?",
+    "pregunta_es": "¿Si el pedal del freno de un vehículo se siente blando o esponjoso al presionarlo, ¿qué significa esto?",
+    "imagen": null,
+    "opciones_es": [
+      "A fault in the brake fluid system. (Una falla en el sistema del líquido de frenos.)",
+      "Worn brake pads. (Pastillas de freno desgastadas.)",
+      "A fault in the handbrake cable. (Una falla en el cable del freno de mano.)",
+      "The parking brake is on. (El freno de mano está puesto.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 3,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "Whilst driving, why might a driver suspect that the brake fluid level in their vehicle is low?",
+    "pregunta_es": "Al conducir, ¿por qué podría sospechar un conductor que el nivel del líquido de frenos de su vehículo está bajo?",
+    "imagen": null,
+    "opciones_es": [
+      "The brakes feel spongy and soft. (Los frenos se sienten esponjosos y blandos.)",
+      "The brakes are unusually sharp. (Los frenos están inusualmente sensibles.)",
+      "The brakes take longer than usual to release. (Los frenos tardan más de lo habitual en soltarse.)",
+      "The brakes feel hard to press. (Los frenos se sienten duros al presionarlos.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 4,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "If a driver applies the footbrake and hears a scraping noise, what is the most likely cause?",
+    "pregunta_es": "Si un conductor presiona el freno de pie y escucha un ruido de raspado, ¿cuál es la causa más probable?",
+    "imagen": null,
+    "opciones_es": [
+      "The brake linings or pads are worn. (Las fricciones o pastillas de freno están desgastadas.)",
+      "One of the front tyres is flat. (Una de las llantas delanteras está desinflada.)",
+      "One of the rear tyres is flat. (Una de las llantas traseras está desinflada.)",
+      "The brake-pads are wet. (Las pastillas de freno están mojadas.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 5,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What may indicate a problem with the vehicle's braking system?",
+    "pregunta_es": "¿Qué podría indicar un problema con el sistema de frenos del vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "The vehicle's stopping ability is affected. (La capacidad de frenado del vehículo se ve afectada.)",
+      "The vehicle's suspension is affected. (La suspensión del vehículo se ve afectada.)",
+      "The vehicle's parking brake is more effective. (El freno de mano del vehículo es más efectivo.)",
+      "The vehicle's fuel consumption is reduced. (El consumo de combustible del vehículo se reduce.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 6,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What is the danger of sudden braking?",
+    "pregunta_es": "¿Cuál es el peligro de un frenado repentino?",
+    "imagen": null,
+    "opciones_es": [
+      "Vehicle may skid. (El vehículo podría derrapar.)",
+      "Handbrake may engage. (El freno de mano podría activarse.)",
+      "Driver's airbag may deploy. (La bolsa de aire del conductor podría desplegarse.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 7,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What can cause a vehicle to skid?",
+    "pregunta_es": "¿Qué puede causar que un vehículo derrape?",
+    "imagen": null,
+    "opciones_es": [
+      "Excessive heavy braking. (Frenado excesivamente brusco.)",
+      "Coasting to a stop. (Rodar por inercia hasta detenerse.)",
+      "Controlled acceleration. (Aceleración controlada.)",
+      "Stopping in fourth gear. (Detenerse en cuarta velocidad.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 8,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What is the outcome of late clutch use when stopping a vehicle?",
+    "pregunta_es": "¿Cuál es el resultado de usar el clutch tarde al detener un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "The vehicle may cut out. (El vehículo podría apagarse.)",
+      "It helps to save fuel. (Ayuda a ahorrar combustible.)",
+      "Tyres will wear down quicker. (Las llantas se desgastarán más rápido.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 9,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "When braking, what determines how quickly the vehicle will slow down and stop?",
+    "pregunta_es": "Al frenar, ¿qué determina qué tan rápido el vehículo disminuirá la velocidad y se detendrá?",
+    "imagen": null,
+    "opciones_es": [
+      "The amount of downward pressure applied to the brake pedal. (La cantidad de presión hacia abajo aplicada al pedal del freno.)",
+      "The amount of upward pressure applied to the brake pedal. (La cantidad de presión hacia arriba aplicada al pedal del freno.)",
+      "The amount of downward pressure applied to the accelerator. (La cantidad de presión hacia abajo aplicada al acelerador.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 10,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What should a driver be aware of when braking to slow down and stop?",
+    "pregunta_es": "¿De qué debe estar consciente un conductor al frenar para disminuir la velocidad y detenerse?",
+    "imagen": null,
+    "opciones_es": [
+      "A loaded vehicle takes longer to stop. (Un vehículo cargado tarda más en detenerse.)",
+      "An empty vehicle takes longer to stop. (Un vehículo vacío tarda más en detenerse.)",
+      "A shorter vehicle takes longer to stop. (Un vehículo más corto tarda más en detenerse.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 11,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "Why should a tractor be driven more slowly on uneven road surfaces?",
+    "pregunta_es": "¿Por qué se debe conducir un tractor más despacio en superficies de carretera irregulares?",
+    "imagen": null,
+    "opciones_es": [
+      "To avoid severe bouncing. (Para evitar rebotes fuertes.)",
+      "To avoid fuel spilling from the tank. (Para evitar que el combustible se derrame del tanque.)",
+      "To reduce road noise. (Para reducir el ruido de la carretera.)",
+      "To maintain tyre pressure. (Para mantener la presión de las llantas.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 12,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What type of noise might fast cornering create?",
+    "pregunta_es": "¿Qué tipo de ruido podría crear el tomar una curva a alta velocidad?",
+    "imagen": null,
+    "opciones_es": [
+      "Tyre squeal. (Chirrido de llantas.)",
+      "Brake squeal. (Chirrido de frenos.)",
+      "Exhaust backfire. (Explosión del escape.)",
+      "Engine backfire. (Explosión del motor.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 13,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What should a driver do when a vehicle starts to aquaplane?",
+    "pregunta_es": "¿Qué debe hacer un conductor cuando un vehículo comienza a deslizarse sobre el agua (aquaplane)?",
+    "imagen": null,
+    "opciones_es": [
+      "Ease off the accelerator to slow down. (Dejar de presionar el acelerador gradualmente para disminuir la velocidad.)",
+      "Brake firmly in order to slow down. (Frenar firmemente para disminuir la velocidad.)",
+      "Maintain speed to avoid skidding. (Mantener la velocidad para evitar derrapar.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 14,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What is the purpose of electronic stability control?",
+    "pregunta_es": "¿Cuál es el propósito del control electrónico de estabilidad?",
+    "imagen": null,
+    "opciones_es": [
+      "To keep the vehicle steady and prevent skidding. (Mantener el vehículo estable y evitar que derrape.)",
+      "To reduce fuel consumption. (Reducir el consumo de combustible.)",
+      "To maintain speed when motorway driving. (Mantener la velocidad al conducir en autopista.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 15,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What is the most common cause of skidding?",
+    "pregunta_es": "¿Cuál es la causa más común de derrape?",
+    "imagen": null,
+    "opciones_es": [
+      "Excessive speed for the circumstances or conditions. (Velocidad excesiva para las circunstancias o condiciones.)",
+      "Badly worn brake pads. (Pastillas de freno muy desgastadas.)",
+      "Hot brake pads from over use on downhill stretches. (Pastillas de freno calientes por el uso excesivo en tramos de bajada.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 16,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "When should the handbrake be used to bring a vehicle to a halt?",
+    "pregunta_es": "¿Cuándo se debe usar el freno de mano para detener un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "Normally never. (Normalmente nunca.)",
+      "Only when going downhill. (Solo cuando se va de bajada.)",
+      "Only when going uphill. (Solo cuando se va de subida.)",
+      "At any time. (En cualquier momento.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 17,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What is the danger associated with applying the handbrake (parking brake) when the vehicle is moving?",
+    "pregunta_es": "¿Cuál es el peligro asociado con aplicar el freno de mano (freno de estacionamiento) cuando el vehículo está en movimiento?",
+    "imagen": null,
+    "opciones_es": [
+      "The wheels could lock and cause the vehicle to skid. (Las llantas podrían bloquearse y causar que el vehículo derrape.)",
+      "The ABS could disconnect and cause the vehicle to skid. (El ABS podría desconectarse y causar que el vehículo derrape.)",
+      "There is no danger the vehicle will not skid as the handbrake can be released quickly. (No hay peligro de que el vehículo derrape, ya que el freno de mano se puede soltar rápidamente.)",
+      "The engine will stall once the handbrake is applied at speed. (El motor se apagará una vez que se aplique el freno de mano a alta velocidad.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 18,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "The parking brake (handbrake) generally works on which wheels?",
+    "pregunta_es": "¿En qué llantas actúa generalmente el freno de mano (freno de estacionamiento)?",
+    "imagen": null,
+    "opciones_es": [
+      "The rear wheels. (Las llantas traseras.)",
+      "The front wheels. (Las llantas delanteras.)",
+      "All the wheels. (Todas las llantas.)",
+      "The rear right-hand wheel. (La llanta trasera derecha.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 19,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What is the recommended method of driving a car with automatic transmission?",
+    "pregunta_es": "¿Cuál es el método recomendado para conducir un carro con transmisión automática?",
+    "imagen": null,
+    "opciones_es": [
+      "Operate the accelerator and brake with the right foot. (Operar el acelerador y el freno con el pie derecho.)",
+      "Operate the accelerator and brake with the left foot. (Operar el acelerador y el freno con el pie izquierdo.)",
+      "Operate the accelerator with the right foot and the brake with the left foot. (Operar el acelerador con el pie derecho y el freno con el pie izquierdo.)",
+      "Use the handbrake to bring the vehicle to a halt. (Usar el freno de mano para detener el vehículo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 20,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "What is the effect of an incorrectly adjusted driver's seat?",
+    "pregunta_es": "¿Cuál es el efecto de un asiento del conductor ajustado incorrectamente?",
+    "imagen": null,
+    "opciones_es": [
+      "It can delay the driver from operating a control. (Puede retrasar al conductor al operar un control.)",
+      "It enables the driver to relax more on a long journey. (Permite al conductor relajarse más en un viaje largo.)",
+      "It gives the driver a better view in the rear-view mirror. (Le da al conductor una mejor vista en el espejo retrovisor.)",
+      "It improves the driver's ability to operate the clutch. (Mejora la capacidad del conductor para operar el embrague.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 21,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "When should a driver have both hands on the steering wheel?",
+    "pregunta_es": "¿Cuándo debe tener un conductor ambas manos en el volante?",
+    "imagen": null,
+    "opciones_es": [
+      "At all times except when using another vehicle control. (En todo momento, excepto al usar otro control del vehículo.)",
+      "Only when making a manoeuvre. (Solo al realizar una maniobra.)",
+      "At all times except when on long straight roads. (En todo momento, excepto en carreteras rectas largas.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 22,
+    "cat": "Control of Vehicle",
+    "pregunta_en": "When using the accelerator, how can a driver help reduce the vehicle's fuel consumption?",
+    "pregunta_es": "Al usar el acelerador, ¿cómo puede un conductor ayudar a reducir el consumo de combustible del vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "A driver should accelerate smoothly to reach and maintain the appropriate speed. (Un conductor debe acelerar suavemente para alcanzar y mantener la velocidad adecuada.)",
+      "A driver should accelerate smoothly only when the vehicle is laden. (Un conductor debe acelerar suavemente solo cuando el vehículo esté cargado.)",
+      "A driver should accelerate quickly to reach the appropriate speed and then ease off to maintain pace. (Un conductor debe acelerar rápidamente para alcanzar la velocidad adecuada y luego soltar para mantener el ritmo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 23,
+    "cat": "Technical Matters",
+    "pregunta_en": "What does Anti-lock Braking System (ABS) do?",
+    "pregunta_es": "¿Qué hace el Sistema de Frenado Antibloqueo (ABS)?",
+    "imagen": null,
+    "opciones_es": [
+      "ABS prevents the wheels from locking under harsh braking conditions. (El ABS evita que las ruedas se bloqueen en condiciones de frenado brusco.)",
+      "ABS displays the name of the radio station playing on the car radio. (El ABS muestra el nombre de la emisora de radio que suena en la radio del coche.)",
+      "ABS locks the brakes to prevent skidding during harsh braking. (El ABS bloquea los frenos para evitar derrapes durante un frenado brusco.)",
+      "ABS deploys the airbags during a collision. (El ABS despliega las bolsas de aire durante una colisión.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 24,
+    "cat": "Technical Matters",
+    "pregunta_en": "What can be affected by driving on under-inflated tyres?",
+    "pregunta_es": "¿Qué puede verse afectado al conducir con llantas desinfladas?",
+    "imagen": null,
+    "opciones_es": [
+      "Braking ability. (La capacidad de frenado.)",
+      "Engine temperature. (La temperatura del motor.)",
+      "The exhaust system. (El sistema de escape.)",
+      "Climate control system. (El sistema de climatización.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 25,
+    "cat": "Technical Matters",
+    "pregunta_en": "When a driver operates the indicator switch and hears a more rapid clicking noise than normal, what could this mean?",
+    "pregunta_es": "Cuando un conductor activa el interruptor de las direccionales y escucha un clic más rápido de lo normal, ¿qué podría significar esto?",
+    "imagen": null,
+    "opciones_es": [
+      "An indicator bulb may have blown. (Es posible que se haya fundido una bombilla de la direccional.)",
+      "The hazard warning light switch is faulty. (El interruptor de las luces de emergencia está defectuoso.)",
+      "The hazard warning lights are on. (Las luces de emergencia están encendidas.)",
+      "The voltage regulator is not functioning properly. (El regulador de voltaje no funciona correctamente.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 26,
+    "cat": "Technical Matters",
+    "pregunta_en": "If driving a vehicle with automatic transmission, what in particular should a driver be aware of?",
+    "pregunta_es": "Si conduce un vehículo con transmisión automática, ¿de qué debe estar consciente en particular?",
+    "imagen": null,
+    "opciones_es": [
+      "That engine braking power is reduced. (Que la potencia del frenado de motor se reduce.)",
+      "That wheel-spin occurs more often. (Que el patinado de las ruedas ocurre con más frecuencia.)",
+      "That the gear box may overheat while being driven in low gear. (Que la caja de cambios puede sobrecalentarse mientras se conduce en una marcha baja.)",
+      "That driving on a motorway is not permitted. (Que no se permite conducir en una autopista.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 27,
+    "cat": "Technical Matters",
+    "pregunta_en": "What effect does automatic transmission have on engine braking power?",
+    "pregunta_es": "¿Qué efecto tiene la transmisión automática en la potencia del frenado de motor?",
+    "imagen": null,
+    "opciones_es": [
+      "It reduces it. (La reduce.)",
+      "It increases it. (La aumenta.)",
+      "It transfers the braking ability to the handbrake. (Transfiere la capacidad de frenado al freno de mano.)",
+      "It transfers the braking ability to all the wheels. (Transfiere la capacidad de frenado a todas las ruedas.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 28,
+    "cat": "Technical Matters",
+    "pregunta_en": "If the oil pressure gauge shows little or no pressure, or the warning light comes on, what could the problem be?",
+    "pregunta_es": "Si el manómetro de presión de aceite muestra poca o ninguna presión, o si se enciende la luz de advertencia, ¿cuál podría ser el problema?",
+    "imagen": null,
+    "opciones_es": [
+      "The oil level is too low. (El nivel de aceite está demasiado bajo.)",
+      "The oil level is too high. (El nivel de aceite está demasiado alto.)",
+      "The oil is too cold. (El aceite está demasiado frío.)",
+      "The oil is too thick. (El aceite está demasiado espeso.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 29,
+    "cat": "Technical Matters",
+    "pregunta_en": "What may happen if the vehicle's engine oil is not changed as required?",
+    "pregunta_es": "¿Qué puede suceder si el aceite del motor del vehículo no se cambia según lo requerido?",
+    "imagen": null,
+    "opciones_es": [
+      "Parts of the engine may suffer increased wear. (Partes del motor pueden sufrir un mayor desgaste.)",
+      "The engine may overheat. (El motor puede sobrecalentarse.)",
+      "The vehicle's fuel consumption may decrease. (El consumo de combustible del vehículo puede disminuir.)",
+      "The vehicle's fuel consumption may increase. (El consumo de combustible del vehículo puede aumentar.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 30,
+    "cat": "Technical Matters",
+    "pregunta_en": "If a vehicle is driven with low oil pressure, what effect does this have on its engine?",
+    "pregunta_es": "Si se conduce un vehículo con baja presión de aceite, ¿qué efecto tiene esto en su motor?",
+    "imagen": null,
+    "opciones_es": [
+      "It increases wear and tear on the engine. (Aumenta el desgaste del motor.)",
+      "It increases fuel efficiency. (Aumenta la eficiencia del combustible.)",
+      "It increases exhaust emissions. (Aumenta las emisiones del escape.)",
+      "It increases fuel consumption. (Aumenta el consumo de combustible.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 31,
+    "cat": "Technical Matters",
+    "pregunta_en": "If the vehicle's oil-pressure gauge is reading low or the red oil-pressure warning light comes on, what should a driver do?",
+    "pregunta_es": "Si el indicador de presión de aceite marca bajo o si se enciende la luz roja de advertencia de presión de aceite, ¿qué debe hacer el conductor?",
+    "imagen": null,
+    "opciones_es": [
+      "Drive to a safe place, stop the vehicle and check the oil level. (Conducir a un lugar seguro, detener el vehículo y revisar el nivel de aceite.)",
+      "Drive at lower speeds until the oil level is topped up. (Conducir a velocidades más bajas hasta que se rellene el nivel de aceite.)",
+      "Drive in a low gear until the oil level is topped up. (Conducir en una marcha baja hasta que se rellene el nivel de aceite.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 32,
+    "cat": "Technical Matters",
+    "pregunta_en": "What should a driver do before checking the engine oil level on a vehicle?",
+    "pregunta_es": "¿Qué debe hacer un conductor antes de revisar el nivel de aceite del motor en un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "Make sure that the engine is switched off and cold. (Asegurarse de que el motor esté apagado y frío.)",
+      "Make sure that the engine is running. (Asegurarse de que el motor esté encendido.)",
+      "Make sure that the engine is switched on and hot. (Asegurarse de que el motor esté encendido y caliente.)",
+      "Make sure that the vehicle is in a low gear. (Asegurarse de que el vehículo esté en una marcha baja.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 33,
+    "cat": "Technical Matters",
+    "pregunta_en": "What is the purpose of engine oil?",
+    "pregunta_es": "¿Cuál es el propósito del aceite de motor?",
+    "imagen": null,
+    "opciones_es": [
+      "It lubricates the engine. (Lubrica el motor.)",
+      "It lubricates the wheel bearings. (Lubrica los rodamientos de las ruedas.)",
+      "It lubricates the braking system. (Lubrica el sistema de frenado.)",
+      "It lubricates the exhaust system. (Lubrica el sistema de escape.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 34,
+    "cat": "Technical Matters",
+    "pregunta_en": "When is it recommended to use coolant?",
+    "pregunta_es": "¿Cuándo se recomienda usar refrigerante?",
+    "imagen": null,
+    "opciones_es": [
+      "All year round. (Todo el año.)",
+      "Summer only. (Solo en verano.)",
+      "Winter only. (Solo en invierno.)",
+      "In petrol engines only. (Solo en motores de gasolina.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 35,
+    "cat": "Technical Matters",
+    "pregunta_en": "What does the warning light and/or red zone on a fuel gauge mean?",
+    "pregunta_es": "¿Qué significa la luz de advertencia y/o la zona roja en un indicador de combustible?",
+    "imagen": null,
+    "opciones_es": [
+      "The level of fuel in the tank is low. (El nivel de combustible en el tanque es bajo.)",
+      "There is a leak in the fuel system. (Hay una fuga en el sistema de combustible.)",
+      "The incorrect type of fuel is in the tank. (Hay un tipo de combustible incorrecto en el tanque.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 36,
+    "cat": "Technical Matters",
+    "pregunta_en": "What happens if the vehicle has a flat battery?",
+    "pregunta_es": "¿Qué sucede si el vehículo tiene la batería descargada?",
+    "imagen": null,
+    "opciones_es": [
+      "The engine will not start. (El motor no arrancará.)",
+      "The head light bulbs will have to be replaced. (Habrá que cambiar las bombillas de los faros.)",
+      "The battery will leak acid into the engine. (La batería derramará ácido en el motor.)",
+      "The battery will have to be replaced. (Habrá que cambiar la batería.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 37,
+    "cat": "Technical Matters",
+    "pregunta_en": "What is the primary purpose of the battery fitted to a petrol - or diesel - powered motor vehicle?",
+    "pregunta_es": "¿Cuál es el propósito principal de la batería instalada en un vehículo de motor de gasolina o diésel?",
+    "imagen": null,
+    "opciones_es": [
+      "To start the engine. (Arrancar el motor.)",
+      "To provide heat to the engine. (Proporcionar calor al motor.)",
+      "To provide braking. (Proporcionar frenado.)",
+      "To reduce fuel consumption. (Reducir el consumo de combustible.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 38,
+    "cat": "Technical Matters",
+    "pregunta_en": "What effect would a weak battery have on a vehicle's driving performance?",
+    "pregunta_es": "¿Qué efecto tendría una batería débil en el rendimiento de conducción de un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "It would have no effect. (No tendría ningún efecto.)",
+      "The fuel would burn less efficiently. (El combustible se quemaría con menos eficiencia.)",
+      "Uphill acceleration would be reduced. (La aceleración en subida se reduciría.)",
+      "The headlights would not function. (Los faros no funcionarían.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 39,
+    "cat": "Technical Matters",
+    "pregunta_en": "What effect can a worn shock absorber have on a vehicle?",
+    "pregunta_es": "¿Qué efecto puede tener un amortiguador desgastado en un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "It can cause the vehicle to 'bounce' in an unstable manner. (Puede hacer que el vehículo 'rebote' de manera inestable.)",
+      "It can increase fuel consumption. (Puede aumentar el consumo de combustible.)",
+      "It can cause an electrical short-circuit. (Puede causar un cortocircuito eléctrico.)",
+      "It can trigger the release of the airbags. (Puede activar la liberación de las bolsas de aire.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 40,
+    "cat": "Technical Matters",
+    "pregunta_en": "What does the speed rating of a tyre indicate?",
+    "pregunta_es": "¿Qué indica el índice de velocidad de una llanta?",
+    "imagen": null,
+    "поpciones_es": [
+      "The maximum speed for which the tyre is designed. (La velocidad máxima para la que está diseñada la llanta.)",
+      "The maximum speed the vehicle can be driven at. (La velocidad máxima a la que se puede conducir el vehículo.)",
+      "The minimum speed for which the tyre is designed. (La velocidad mínima para la que está diseñada la llanta.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 41,
+    "cat": "Technical Matters",
+    "pregunta_en": "Why should the valve be replaced when having a tubeless tyre fitted?",
+    "pregunta_es": "¿Por qué se debe reemplazar la válvula al instalar una llanta sin cámara (tubeless)?",
+    "imagen": null,
+    "opciones_es": [
+      "To ensure the tyre will remain inflated. (Para asegurar que la llanta se mantenga inflada.)",
+      "To ensure the wheel nuts remain tight. (Para asegurar que las tuercas de la rueda se mantengan apretadas.)",
+      "To ensure the wheel remains balanced. (Para asegurar que la rueda se mantenga equilibrada.)",
+      "To ensure the wheel remains aligned. (Para asegurar que la rueda se mantenga alineada.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 42,
+    "cat": "Technical Matters",
+    "pregunta_en": "What effect does low tyre-pressure have on a vehicle?",
+    "pregunta_es": "¿Qué efecto tiene la baja presión de las llantas en un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "Braking and cornering are impaired. (El frenado y el giro en curvas se ven afectados.)",
+      "The engine noise increases. (El ruido del motor aumenta.)",
+      "The brakes can overheat. (Los frenos pueden sobrecalentarse.)",
+      "The vehicle accelerates faster. (El vehículo acelera más rápido.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 43,
+    "cat": "Technical Matters",
+    "pregunta_en": "What is an effect of under-inflated tyres on a vehicle?",
+    "pregunta_es": "¿Cuál es un efecto de las llantas desinfladas en un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "Impaired braking and steering. (Frenado y dirección deficientes.)",
+      "Improved braking and steering. (Mejora en el frenado y la dirección.)",
+      "Improved fuel economy and braking. (Mejora en la economía de combustible y el frenado.)",
+      "Increased wear on the vehicle's engine. (Aumento del desgaste en el motor del vehículo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 44,
+    "cat": "Technical Matters",
+    "pregunta_en": "While driving at higher speeds, what does a continuous vibration in the steering indicate?",
+    "pregunta_es": "Al conducir a altas velocidades, ¿qué indica una vibración continua en el volante?",
+    "imagen": null,
+    "opciones_es": [
+      "The wheel balance is uneven. (El equilibrado de las ruedas es desigual.)",
+      "The shock absorbers are worn. (Los amortiguadores están desgastados.)",
+      "Weight distribution is uneven. (La distribución del peso es desigual.)",
+      "The steering is out of alignment. (La dirección está desalineada.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 45,
+    "cat": "Technical Matters",
+    "pregunta_en": "After changing a wheel on a vehicle, which of the following should be checked after a short distance?",
+    "pregunta_es": "Después de cambiar una rueda en un vehículo, ¿cuál de los siguientes elementos debe revisarse tras una corta distancia?",
+    "imagen": null,
+    "opciones_es": [
+      "The wheel nut tightness. (El apriete de las tuercas de la rueda.)",
+      "The brake pad clearance. (El espacio de las pastillas de freno.)",
+      "The tyre air valve. (La válvula de aire de la llanta.)",
+      "The tyre tread depth. (La profundidad del dibujo de la llanta.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 46,
+    "cat": "Technical Matters",
+    "pregunta_en": "In general, above what gross vehicle weight must a trailer have brakes fitted?",
+    "pregunta_es": "En general, ¿por encima de qué peso bruto del vehículo debe tener frenos un remolque?",
+    "imagen": null,
+    "opciones_es": [
+      "750 kg",
+      "500 kg",
+      "850 kg",
+      "900 kg"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 47,
+    "cat": "Technical Matters",
+    "pregunta_en": "When driving, where should a driver rest their left foot?",
+    "pregunta_es": "Al conducir, ¿donde debe el conductor apoyar su pie izquierdo?",
+    "imagen": null,
+    "opciones_es": [
+      "On the floor or foot rest. (En el piso o en el reposapiés.)",
+      "On the clutch pedal. (Sobre el pedal del embrague.)",
+      "Under the brake pedal. (Debajo del pedal del freno.)",
+      "Under the clutch pedal. (Debajo del pedal del embrague.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 48,
+    "cat": "Technical Matters",
+    "pregunta_en": "On a motorway, when should a driver use the hazard warning lights?",
+    "pregunta_es": "En una autopista, ¿cuándo debe un conductor usar las luces de emergencia (estacionarias)?",
+    "imagen": null,
+    "opciones_es": [
+      "When slowing down quickly because of danger ahead. (Al disminuir la velocidad rápidamente debido a un peligro adelante.)",
+      "When another vehicle is following too closely. (Cuando otro vehículo lo sigue demasiado de cerca.)",
+      "When towing another vehicle. (Al remolcar otro vehículo.)",
+      "When driving on the hard shoulder. (Al conducir por el arcén/hombro de la carretera.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 49,
+    "cat": "Technical Matters",
+    "pregunta_en": "What should a driver do if the fuel system becomes air-locked?",
+    "pregunta_es": "¿Qué debe hacer un conductor si el sistema de combustible se bloquea por aire?",
+    "imagen": null,
+    "opciones_es": [
+      "Bleed the air out of the fuel system. (Purgar el aire del sistema de combustible.)",
+      "Drain the fuel filter. (Drenar el filtro de combustible.)",
+      "Loosen the fuel pump. (Aflojar la bomba de combustible.)",
+      "Tighten the injector pipes. (Apretar los tubos de los inyectores.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 50,
+    "cat": "Technical Matters",
+    "pregunta_en": "Under what circumstances could both cross-ply and radial tyres be fitted to a vehicle?",
+    "pregunta_es": "¿Bajo qué circunstancias podrían instalarse llantas de capas cruzadas (cross-ply) y radiales en un mismo vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "When each type is fitted on a different axle. (Cuando cada tipo se instala en un eje diferente.)",
+      "When heavy loads are being carried. (Cuando se transportan cargas pesadas.)",
+      "When driving in slippery road conditions. (Al conducir en condiciones de carretera resbaladiza.)",
+      "When towing a trailer in snow. (Al remolcar un remolque en la nieve.)"
+    ],
+    "correcta": 0
+  },
+
+  {
+    "id": 51,
+    "cat": "Managing Risk",
+    "pregunta_en": "How does driving at high speed affect a vehicle's road holding?",
+    "pregunta_es": "¿Cómo afecta conducir a alta velocidad al agarre (estabilidad) de un vehículo en la carretera?",
+    "imagen": null,
+    "opciones_es": [
+      "The road holding ability of the vehicle is reduced. (La capacidad de agarre del vehículo se reduce.)",
+      "The wheel alignment keeps the tyres in full contact with the road. (La alineación de las ruedas mantiene las llantas en contacto total con la carretera.)",
+      "The suspension compensates for any unevenness in the road surface. (La suspensión compensa cualquier irregularidad en la superficie de la carretera.)",
+      "The road holding ability of the vehicle is increased. (La capacidad de agarre del vehículo aumenta.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 52,
+    "cat": "Managing Risk",
+    "pregunta_en": "What effect does carrying a load have on a vehicle's braking ability?",
+    "pregunta_es": "¿Qué efecto tiene llevar una carga en la capacidad de frenado de un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "It increases the distance required to stop. (Aumenta la distancia necesaria para detenerse.)",
+      "It reduces the distance required to stop. (Reduce la distancia necesaria para detenerse.)",
+      "It has no effect provided the brakes are good. (No tiene efecto siempre que los frenos estén bien.)",
+      "It increases the efficiency of the brakes. (Aumenta la eficiencia de los frenos.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 53,
+    "cat": "Managing Risk",
+    "pregunta_en": "What effect does towing a loaded trailer have on stopping ability?",
+    "pregunta_es": "¿Qué efecto tiene remolcar un remolque cargado en la capacidad de detención?",
+    "imagen": null,
+    "opciones_es": [
+      "It increases the stopping distance. (Aumenta la distancia de detención.)",
+      "It reduces the stopping distance. (Reduce la distancia de detención.)",
+      "It has no effect on stopping distance. (No tiene efecto en la distancia de detención.)",
+      "It increases the efficiency of the brakes. (Aumenta la eficiencia de los frenos.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 54,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do when involved in an incident where nobody is injured but the vehicles are causing a danger or obstruction on the road?",
+    "pregunta_es": "¿Qué debe hacer un conductor cuando se ve involucrado en un incidente donde nadie resultó herido pero los vehículos representan un peligro u obstrucción en la carretera?",
+    "imagen": null,
+    "opciones_es": [
+      "Take care when moving damaged vehicles and make every effort to warn other traffic. (Tener cuidado al mover los vehículos dañados y hacer todo lo posible para advertir al resto del tráfico.)",
+      "Halt all traffic until it has been established who is at fault. (Detener todo el tráfico hasta que se establezca quién tiene la culpa.)",
+      "Wait for the Gardai to arrive before moving the vehicles. (Esperar a que lleguen los Gardai antes de mover los vehículos.)",
+      "Move all passengers and put a red warning triangle on the road. (Mover a todos los pasajeros y colocar un triángulo de advertencia rojo en la carretera.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 55,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do if involved in an incident where there is damage to property only?",
+    "pregunta_es": "¿Qué debe hacer un conductor si se ve involucrado en un incidente donde solo hay daños a la propiedad?",
+    "imagen": null,
+    "opciones_es": [
+      "It is not necessary to report it to the Gardai provided it has been reported to the property owner. (No es necesario informarlo a los Gardai siempre que se haya informado al dueño de la propiedad.)",
+      "It is only necessary to report the incident to the Gardai within 10 days. (Solo es necesario informar el incidente a los Gardai en un plazo de 10 días.)",
+      "Report the incident both to the property owner and the Gardai within 48 hours. (Informar del incidente tanto al dueño de la propiedad como a los Gardai en un plazo de 48 horas.)",
+      "There is no need to report the incident if there is no damage to the vehicle. (No es necesario informar del incidente si no hay daños en el vehículo.)"
+    ],
+    "correcta": 2
+  },
+  {
+    "id": 56,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do where a person has been injured in a collision?",
+    "pregunta_es": "¿Qué debe hacer un conductor cuando una persona ha resultado herida en una colisión?",
+    "imagen": null,
+    "opciones_es": [
+      "Move the victim only if there is a risk of fire or further injury. (Mover a la víctima solo si hay riesgo de incendio o de sufrir más lesiones.)",
+      "Move the vehicles out of the way to avoid causing obstruction. (Mover los vehículos fuera del camino para evitar causar una obstrucción.)",
+      "Move the victim to the side of the road. (Mover a la víctima al costado de la carretera.)",
+      "Always move the victim and the vehicles. (Mover siempre a la víctima y a los vehículos.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 57,
+    "cat": "Managing Risk",
+    "pregunta_en": "What type of drink should be given to a person who has been injured in a collision?",
+    "pregunta_es": "¿Qué tipo de bebida se le debe dar a una persona que ha resultado herida en una colisión?",
+    "imagen": null,
+    "opciones_es": [
+      "No drink should be given. (No se debe dar ninguna bebida.)",
+      "A cold drink. (Una bebida fría.)",
+      "A non-alcoholic drink. (Una bebida sin alcohol.)",
+      "A hot drink. (Una bebida caliente.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 58,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do to assist a person who is unconscious following a collision?",
+    "pregunta_es": "¿Qué debe hacer un conductor para asistir a una persona que está inconsciente tras una colisión?",
+    "imagen": null,
+    "opciones_es": [
+      "Try to keep the person warm with a blanket or overcoat. (Tratar de mantener a la persona caliente con una manta o abrigo.)",
+      "Move the person to the nearest hospital immediately. (Llevar a la persona al hospital más cercano de inmediato.)",
+      "Try and get the person to drink something warm. (Intentar que la persona beba algo caliente.)",
+      "Raise the person's head and hold it in that position. (Levantar la cabeza de la persona y mantenerla en esa posición.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 59,
+    "cat": "Managing Risk",
+    "pregunta_en": "Who should first be contacted where a person has been injured in a collision?",
+    "pregunta_es": "¿A quién se debe contactar primero cuando una persona ha resultado herida en una colisión?",
+    "imagen": null,
+    "opciones_es": [
+      "The emergency services. (Los servicios de emergencia.)",
+      "The person's relatives. (A los familiares de la persona.)",
+      "The injured person's insurance company. (A la compañía de seguros de la persona herida.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 60,
+    "cat": "Managing Risk",
+    "pregunta_en": "If a driver is involved in a serious collision with an uninsured motorist, where nobody is injured, who should it be reported to?",
+    "pregunta_es": "Si un conductor se ve involucrado en una colisión grave con un conductor sin seguro, donde nadie resultó herido, ¿a quién debe informarse?",
+    "imagen": null,
+    "opciones_es": [
+      "The driver's insurance company and the Gardaí. (A la compañía de seguros del conductor y a los Gardaí.)",
+      "The National Driver Licence Service (NDLS). (Al Servicio Nacional de Licencias de Conducir.)",
+      "The local Motor Taxation Office. (A la oficina local de impuestos del motor.)",
+      "The Irish Insurance Federation. (A la Federación Irlandesa de Seguros.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 61,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do if involved in a collision with another vehicle where nobody is injured?",
+    "pregunta_es": "¿Qué debe hacer un conductor si se ve involucrado en una colisión con otro vehículo donde nadie resultó herido?",
+    "imagen": null,
+    "opciones_es": [
+      "Exchange all relevant details with the other driver. (Intercambiar todos los detalles pertinentes con el otro conductor.)",
+      "Give their name and address only to the other person. (Dar su nombre y dirección únicamente a la otra persona.)",
+      "Exchange no details but report the incident to the Gardai. (No intercambiar detalles pero informar el incidente a los Gardai.)",
+      "Submit a written report to the Insurance Bureau of Ireland. (Presentar un informe por escrito a la Oficina de Seguros de Irlanda.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 62,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do if they arrive at the scene of a collision involving a vehicle carrying hazardous materials?",
+    "pregunta_es": "¿Qué debe hacer un conductor si llega a la escena de una colisión que involucra a un vehículo que transporta materiales peligrosos?",
+    "imagen": null,
+    "opciones_es": [
+      "Keep well clear and call the emergency services. (Mantenerse bien alejado y llamar a los servicios de emergencia.)",
+      "Try to prevent any further leakage of hazardous materials before raising the alarm. (Tratar de evitar más fugas de materiales peligrosos antes de dar la alarma.)",
+      "Try to move the vehicle to a safe place. (Intentar mover el vehículo a un lugar seguro.)",
+      "Contact the haulage company who own the vehicle. (Contactar a la empresa de transporte propietaria del vehículo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 63,
+    "cat": "Managing Risk",
+    "pregunta_en": "If a vehicle breaks down, where should the driver stop?",
+    "pregunta_es": "Si un vehículo se avería, ¿dónde debe detenerse el conductor?",
+    "imagen": null,
+    "opciones_es": [
+      "As far to the left as possible. (Lo más a la izquierda posible.)",
+      "The nearest exit ramp. (En la rampa de salida más cercana.)",
+      "As far to the right as possible. (Lo más a la derecha posible.)",
+      "In the lane where the problem occurred. (En el carril donde ocurrió el problema.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 64,
+    "cat": "Managing Risk",
+    "pregunta_en": "What is the quickest way to warn other traffic of a crash?",
+    "pregunta_es": "¿Cuál es la forma más rápida de advertir al resto del tráfico de un choque?",
+    "imagen": null,
+    "opciones_es": [
+      "Use hazard lights. (Usar las luces de emergencia.)",
+      "Call local radio station. (Llamar a la estación de radio local.)",
+      "Stand in the road and wave arms. (Pararse en la carretera y agitar los brazos.)",
+      "Place a large object in the centre of the road. (Colocar un objeto grande en el centro de la carretera.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 65,
+    "cat": "Managing Risk",
+    "pregunta_en": "In order to inform the emergency services of a crash what telephone number should be called?",
+    "pregunta_es": "Para informar a los servicios de emergencia de un choque, ¿a qué número de teléfono se debe llamar?",
+    "imagen": null,
+    "opciones_es": [
+      "112",
+      "199",
+      "555",
+      "911"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 66,
+    "cat": "Managing Risk",
+    "pregunta_en": "When calling for help on an emergency telephone on the motorway, who does the call go to?",
+    "pregunta_es": "Al pedir ayuda desde un teléfono de emergencia en la autopista, ¿a quién va dirigida la llamada?",
+    "imagen": null,
+    "opciones_es": [
+      "The Gardaí. (A los Gardaí.)",
+      "Road Safety Authority. (La Autoridad de Seguridad Vial.)",
+      "National Safety Council. (El Consejo Nacional de Seguridad.)",
+      "National Roads Authority. (La Autoridad Nacional de Carreteras.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 67,
+    "cat": "Managing Risk",
+    "pregunta_en": "Where an injured person is discovered lying in the road, when should they be moved?",
+    "pregunta_es": "Cuando se descubre a una persona herida tendida en la carretera, ¿cuándo debe ser movida?",
+    "imagen": null,
+    "opciones_es": [
+      "If the person needs CPR. (Si la persona necesita RCP.)",
+      "If the person is cold. (Si la persona tiene frío.)",
+      "If the person is bleeding. (Si la persona está sangrando.)",
+      "If the person has broken bones. (Si la persona tiene huesos rotos.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 68,
+    "cat": "Managing Risk",
+    "pregunta_en": "When dealing with crash victims, remember A B C. What does A stand for?",
+    "pregunta_es": "Al tratar con víctimas de un choque, recuerde A B C. ¿Qué significa la A?",
+    "imagen": null,
+    "opciones_es": [
+      "Airway. (Vía respiratoria.)",
+      "Accident. (Accidente.)",
+      "Assist. (Asistir.)",
+      "Arms. (Brazos.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 69,
+    "cat": "Managing Risk",
+    "pregunta_en": "What is good basic first aid for a person who has been burned?",
+    "pregunta_es": "¿Cuál es un buen primer auxilio básico para una persona que ha sufrido una quemadura?",
+    "imagen": null,
+    "opciones_es": [
+      "Apply cold water to the burn. (Aplicar agua fría a la quemadura.)",
+      "Apply grease to the burn. (Aplicar grasa a la quemadura.)",
+      "Apply warm water to the burn. (Aplicar agua tibia a la quemadura.)",
+      "Remove clothing covering the burn. (Quitar la ropa que cubre la quemadura.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 70,
+    "cat": "Managing Risk",
+    "pregunta_en": "Why is it important to ensure that the vehicle headlights are correctly aligned?",
+    "pregunta_es": "¿Por qué es importante asegurarse de que los faros del vehículo estén correctamente alineados?",
+    "imagen": null,
+    "opciones_es": [
+      "To enable the driver to see properly. (Para permitir que el conductor vea correctamente.)",
+      "To reduce battery consumption. (Para reducir el consumo de batería.)",
+      "To enable the driver to drive faster in the dark. (Para permitir al conductor conducir más rápido en la oscuridad.)",
+      "To increase the lifespan of the headlights. (Para aumentar la vida útil de los faros.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 71,
+    "cat": "Managing Risk",
+    "pregunta_en": "What effect could incorrectly aligned headlights have?",
+    "pregunta_es": "¿Qué efecto podrían tener los faros mal alineados?",
+    "imagen": null,
+    "opciones_es": [
+      "They could dazzle oncoming drivers. (Podrían deslumbrar a los conductores que vienen en sentido contrario.)",
+      "They could reduce battery life. (Podrían reducir la duración de la batería.)",
+      "They could cause a fire. (Podrían causar un incendio.)",
+      "They could wear out the bulbs prematurely. (Podrían desgastar las bombillas prematuramente.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 72,
+    "cat": "Managing Risk",
+    "pregunta_en": "In general, how frequently should a vehicle's lights be checked?",
+    "pregunta_es": "En general, ¿con qué frecuencia se deben revisar las luces de un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "Daily before driving. (Diariamente antes de conducir.)",
+      "At major service intervals. (En los intervalos de mantenimiento mayor.)",
+      "At minor service intervals. (En los intervalos de mantenimiento menor.)",
+      "When wintertime approaches. (Cuando se acerca el invierno.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 73,
+    "cat": "Managing Risk",
+    "pregunta_en": "What effect can a broken lens have on headlights?",
+    "pregunta_es": "¿Qué efecto puede tener un lente roto en los faros?",
+    "imagen": null,
+    "opciones_es": [
+      "It can reduce and distort the beam. (Puede reducir y distorsionar el haz de luz.)",
+      "It can increase the brightness of the beam in the other headlight. (Puede aumentar el brillo del haz en el otro faro.)",
+      "It can cause the bulb to overheat. (Puede hacer que la bombilla se sobrecaliente.)",
+      "It can cause other bulbs to blow if not fixed immediately. (Puede hacer que otras bombillas se fundan si no se repara de inmediato.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 74,
+    "cat": "Managing Risk",
+    "pregunta_en": "Is it allowed for a vehicle to be driven on a public road when the brake lights are not working?",
+    "pregunta_es": "¿Está permitido conducir un vehículo en la vía pública cuando las luces de freno no funcionan?",
+    "imagen": null,
+    "opciones_es": [
+      "No, it is never permitted to be driven. (No, nunca está permitido conducir así.)",
+      "No, unless driving in a built-up area. (No, a menos que se conduzca en una zona urbana.)",
+      "Yes, during lighting-up times. (Sí, durante las horas de encendido de luces.)",
+      "Yes, outside of lighting-up times. (Sí, fuera de las horas de encendido de luces.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 75,
+    "cat": "Managing Risk",
+    "pregunta_en": "What does this light mean?",
+    "pregunta_es": "¿Qué significa esta luz?",
+    "imagen": "assets/images/batteryNotCharging.png",
+    "opciones_es": [
+      "The battery is not charging. (La batería no se está cargando.)",
+      "The engine is over-heating. (El motor se está sobrecalentando.)",
+      "The gear box is over-heating. (La caja de cambios se está sobrecalentando.)",
+      "The oil level is too low. (El nivel de aceite está demasiado bajo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 76,
+    "cat": "Managing Risk",
+    "pregunta_en": "What does this light mean?",
+    "pregunta_es": "¿Qué significa esta luz?",
+    "imagen": "assets/images/highBeams.png",
+    "opciones_es": [
+      "The high-beam headlights are switched on. (Las luces altas están encendidas.)",
+      "The reversing light is switched on. (La luz de marcha atrás está encendida.)",
+      "The headlight beam should be dipped. (El haz de luz del faro debe bajarse.)",
+      "The number plate light is faulty. (La luz de la matrícula está defectuosa.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 77,
+    "cat": "Managing Risk",
+    "pregunta_en": "What does this light mean?",
+    "pregunta_es": "¿Qué significa esta luz?",
+    "imagen": "assets/images/oilLow.png",
+    "opciones_es": [
+      "Low engine oil level. (Nivel bajo de aceite del motor.)",
+      "Low battery fluid level. (Nivel bajo de líquido de batería.)",
+      "Low engine coolant level. (Nivel bajo de refrigerante del motor.)",
+      "Low brake fluid level. (Nivel bajo de líquido de frenos.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 78,
+    "cat": "Managing Risk",
+    "pregunta_en": "What does this light mean?",
+    "pregunta_es": "¿Qué significa esta luz?",
+    "imagen": "assets/images/rightDirectional.png",
+    "opciones_es": [
+      "Directional indicator on. (Indicador de dirección encendido.)",
+      "Right-hand fog light on. (Luz antiniebla derecha encendida.)",
+      "Headlight bulb blown. (Bombilla de faro fundida.)",
+      "Brake light bulb blown. (Bombilla de luz de freno fundida.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 79,
+    "cat": "Managing Risk",
+    "pregunta_en": "How does the driver know the vehicle's total load-carrying capacity?",
+    "pregunta_es": "¿Cómo sabe el conductor la capacidad total de carga del vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "By referring to the vehicle manufacturer's specification. (Consultando las especificaciones del fabricante del vehículo.)",
+      "By measuring the size of the boot. (Midiendo el tamaño del maletero.)",
+      "By counting the number of seats. (Contando el número de asientos.)",
+      "By checking the horse power of the engine. (Comprobando la potencia del motor.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 80,
+    "cat": "Managing Risk",
+    "pregunta_en": "What determines the maximum allowed towing capacity of a vehicle?",
+    "pregunta_es": "¿Qué determina la capacidad máxima de remolque permitida de un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "The manufacturer's specifications. (Las especificaciones del fabricante.)",
+      "The strength of the tow bar. (La resistencia de la barra de remolque.)",
+      "The size of the tyres on the vehicle. (El tamaño de las llantas del vehículo.)",
+      "The combined weight of the vehicle and its trailer. (El peso combinado del vehículo y su remolque.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 81,
+    "cat": "Managing Risk",
+    "pregunta_en": "What effect can overloading a vehicle have on its road-holding?",
+    "pregunta_es": "¿Qué efecto puede tener la sobrecarga de un vehículo en su estabilidad en la carretera?",
+    "imagen": null,
+    "opciones_es": [
+      "The load can make the vehicle more difficult to control. (La carga puede hacer que el vehículo sea más difícil de controlar.)",
+      "Provided the load is evenly distributed, it improves the stability of the vehicle. (Siempre que la carga esté distribuida uniformemente, mejora la estabilidad del vehículo.)",
+      "The load can make the vehicle more difficult to control, but only when reversing. (La carga puede hacer que el vehículo sea más difícil de controlar, pero solo al dar marcha atrás.)",
+      "The load can make the vehicle more difficult to control, but only when going downhill. (La carga puede hacer que el vehículo sea más difícil de controlar, pero solo al bajar una pendiente.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 82,
+    "cat": "Managing Risk",
+    "pregunta_en": "What would be the effect of overloading a vehicle with passengers or goods?",
+    "pregunta_es": "¿Cuál sería el efecto de sobrecargar un vehículo con pasajeros o mercancías?",
+    "imagen": null,
+    "opciones_es": [
+      "It would reduce the driver's ability to control the vehicle. (Reduciría la capacidad del conductor para controlar el vehículo.)",
+      "It would improve the vehicle's road-holding ability. (Mejoraría la capacidad de estabilidad del vehículo.)",
+      "It would not have any effect provided speed is reduced. (No tendría ningún efecto siempre que se reduzca la velocidad.)",
+      "Overloading will not reduce the ability to control the vehicle. (La sobrecarga no reducirá la capacidad de controlar el vehículo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 83,
+    "cat": "Managing Risk",
+    "pregunta_en": "What effect could an unevenly distributed load have on a vehicle?",
+    "pregunta_es": "¿Qué efecto podría tener una carga distribuida de manera desigual en un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "It could make the vehicle unstable while turning. (Podría hacer que el vehículo sea inestable al girar.)",
+      "It could cause the clutch to slip while accelerating. (Podría causar que el embrague patine al acelerar.)",
+      "It could cause the gear box to overheat. (Podría causar que la caja de cambios se sobrecaliente.)",
+      "It could cause the vehicle to overheat. (Podría causar que el vehículo se sobrecaliente.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 84,
+    "cat": "Managing Risk",
+    "pregunta_en": "What would make a pedestrian more visible to a driver at night?",
+    "pregunta_es": "¿Qué haría que un peatón sea más visible para un conductor por la noche?",
+    "imagen": null,
+    "opciones_es": [
+      "Wearing a hi-vis jacket. (Usar una chaqueta de alta visibilidad.)",
+      "Wearing headphones. (Usar auriculares.)",
+      "Wearing a waterproof jacket. (Usar una chaqueta impermeable.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 85,
+    "cat": "Managing Risk",
+    "pregunta_en": "What is the purpose of daytime running lights on a vehicle?",
+    "pregunta_es": "¿Cuál es el propósito de las luces de circulación diurna en un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "To increase the vehicles visibility in daylight hours. (Aumentar la visibilidad del vehículo durante las horas del día.)",
+      "To give the vehicle extra light when driving at night. (Darle al vehículo luz extra al conducir de noche.)",
+      "To illuminate the road in bad weather conditions in daylight hours. (Iluminar la carretera en condiciones de mal tiempo durante las horas del día.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 86,
+    "cat": "Managing Risk",
+    "pregunta_en": "Which of the following statements is true in relation to tyre pressure and driving on a motorway?",
+    "pregunta_es": "¿Cuál de las siguientes afirmaciones es verdadera en relación con la presión de las llantas y la conducción en autopista?",
+    "imagen": null,
+    "opciones_es": [
+      "The driver should ensure that tyre pressure is correct, in line with the manufacturer's recommendations. (El conductor debe asegurarse de que la presión de las llantas sea la correcta, de acuerdo con las recomendaciones del fabricante.)",
+      "The driver should increase the rear tyre pressure in order to cope with sustained high speed. (El conductor debe aumentar la presión de las llantas traseras para soportar una alta velocidad sostenida.)",
+      "The driver should reduce tyre pressure because high speeds will cause them to heat up. (El conductor debe reducir la presión de las llantas porque las altas velocidades harán que se calienten.)",
+      "The driver should increase the front tyre pressure in order to cope with sustained high speed. (El conductor debe aumentar la presión de las llantas delanteras para soportar una alta velocidad sostenida.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 87,
+    "cat": "Managing Risk",
+    "pregunta_en": "How would a driver know that a brake-light bulb is not working?",
+    "pregunta_es": "¿Cómo sabría un conductor que una bombilla de la luz de freno no funciona?",
+    "imagen": null,
+    "opciones_es": [
+      "By standing at the rear of the vehicle and checking as another person presses the brake pedal. (Parándose en la parte trasera del vehículo y verificando mientras otra persona presiona el pedal del freno.)",
+      "They would notice the brake pedal getting softer under pressure. (Notaría que el pedal del freno se vuelve más blando bajo presión.)",
+      "By standing at the rear of the vehicle and getting another person to turn on side lights. (Parándose en la parte trasera del vehículo y pidiendo a otra persona que encienda las luces de posición.)",
+      "They would notice the brake pedal become firmer under pressure. (Notaría que el pedal del freno se vuelve más firme bajo presión.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 88,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do if a system warning light lights up on the dashboard of their vehicle whilst driving?",
+    "pregunta_es": "¿Qué debe hacer un conductor si una luz de advertencia del sistema se enciende en el tablero de su vehículo mientras conduce?",
+    "imagen": null,
+    "opciones_es": [
+      "Stop and check the problem. (Detenerse y verificar el problema.)",
+      "Carry on and check the problem later. (Continuar y verificar el problema más tarde.)",
+      "Continue for a distance to see if the light goes out. (Continuar un tramo para ver si la luz se apaga.)",
+      "Continue to drive and listen for any unusual sounds. (Continuar conduciendo y escuchar si hay sonidos inusuales.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 89,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do if a red system warning light lights up on the dashboard of their vehicle?",
+    "pregunta_es": "¿Qué debe hacer un conductor si una luz roja de advertencia del sistema se enciende en el tablero de su vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "Stop and investigate the cause. (Detenerse e investigar la causa.)",
+      "Drive to the nearest garage and have it checked. (Conducir al taller más cercano y hacer que lo revisen.)",
+      "Continue on and see if it goes out. (Continuar y ver si se apaga.)",
+      "Continue on and listen for any unusual sounds. (Continuar y escuchar si hay sonidos inusuales.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 90,
+    "cat": "Managing Risk",
+    "pregunta_en": "What is the purpose of the red reflectors at the rear of a vehicle?",
+    "pregunta_es": "¿Cuál es el propósito de los reflectores rojos en la parte trasera de un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "They reflect light at night to make other road users aware of the vehicle. (Reflejan la luz por la noche para que otros usuarios de la carretera se percaten del vehículo.)",
+      "They are a substitute in case of brake-light failure. (Son un sustituto en caso de falla de las luces de freno.)",
+      "They warn the driver behind to switch to main beam. (Advierten al conductor de atrás que cambie a las luces altas.)",
+      "They warn pedestrians of the vehicle's location. (Advierten a los peatones sobre la ubicación del vehículo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 91,
+    "cat": "Managing Risk",
+    "pregunta_en": "If, when driving along, the driver notices that the engine power is lower than normal, what should they do?",
+    "pregunta_es": "Si, mientras conduce, el conductor nota que la potencia del motor es menor de lo normal, ¿qué debe hacer?",
+    "imagen": null,
+    "opciones_es": [
+      "Have the vehicle checked by a competent person. (Hacer que una persona competente revise el vehículo.)",
+      "Switch to a different fuel. (Cambiar a un combustible diferente.)",
+      "Adjust the fuel mixture control mechanism. (Ajustar el mecanismo de control de la mezcla de combustible.)",
+      "Replace the engine oil filter. (Reemplazar el filtro de aceite del motor.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 92,
+    "cat": "Managing Risk",
+    "pregunta_en": "While driving, a driver notices a strong smell of fuel. What should they do?",
+    "pregunta_es": "Mientras conduce, un conductor nota un fuerte olor a combustible. ¿Qué debe hacer?",
+    "imagen": null,
+    "opciones_es": [
+      "Stop where safe and investigate. (Detenerse en un lugar seguro e investigar.)",
+      "Drive at a reduced speed. (Conducir a una velocidad reducida.)",
+      "Turn on the fan to clear the air. (Encender el ventilador para limpiar el aire.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 93,
+    "cat": "Managing Risk",
+    "pregunta_en": "While driving, the driver notices the vehicle temperature gauge showing red. What should they do?",
+    "pregunta_es": "Mientras conduce, el conductor nota que el indicador de temperatura del vehículo marca en rojo. ¿Qué debe hacer?",
+    "imagen": null,
+    "opciones_es": [
+      "Stop in a safe place and have the problem investigated. (Detenerse en un lugar seguro y hacer que se investigue el problema.)",
+      "Drive to the nearest service depot and top-up the water in the radiator. (Conducir al depósito de servicio más cercano y rellenar el agua del radiador.)",
+      "Remove the filler cap from the radiator and check for leakage. (Quitar la tapa del radiador y verificar si hay fugas.)",
+      "Do not drive until an anti-waxing agent is added to the coolant. (No conducir hasta que se añada un agente anti-parafina al refrigerante.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 94,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do if they notice steam rising from the engine compartment?",
+    "pregunta_es": "¿Qué debe hacer un conductor si nota que sale vapor del compartimento del motor?",
+    "imagen": null,
+    "opciones_es": [
+      "Stop where safe and investigate the cause. (Detenerse en un lugar seguro e investigar la causa.)",
+      "Remove the filler cap from the coolant bottle. (Quitar la tapa del depósito de refrigerante.)",
+      "Top up with anti-freeze immediately. (Rellenar con anticongelante inmediatamente.)",
+      "Increase speed to increase the air flow into the engine compartment. (Aumentar la velocidad para incrementar el flujo de aire hacia el compartimento del motor.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 95,
+    "cat": "Managing Risk",
+    "pregunta_en": "If a driver notices that structural parts of their vehicle's body have been affected by rust, what should they do?",
+    "pregunta_es": "Si un conductor nota que las partes estructurales de la carrocería de su vehículo se han visto afectadas por el óxido, ¿qué debe hacer?",
+    "imagen": null,
+    "opciones_es": [
+      "Have it repaired by a competent repair shop. (Hacer que lo repare un taller de reparación competente.)",
+      "Have paint sprayed over it of the same colour. (Hacer que se rocíe pintura del mismo color encima.)",
+      "Have it sandpapered and keep the affected area dry. (Hacer que se lije y mantener el área afectada seca.)",
+      "Treat the area with grease and paint over it. (Tratar el área con grasa y pintar encima.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 96,
+    "cat": "Managing Risk",
+    "pregunta_en": "After changing a wheel on a vehicle, which of the following should be checked soon afterwards?",
+    "pregunta_es": "Después de cambiar una rueda en un vehículo, ¿cuál de los siguientes elementos debe revisarse poco después?",
+    "imagen": null,
+    "opciones_es": [
+      "The wheel nuts. (Las tuercas de la rueda.)",
+      "The brake pad clearance. (El espacio de las pastillas de freno.)",
+      "The tyre tread depth. (La profundidad del dibujo de la llanta.)",
+      "The air valve. (La válvula de aire.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 97,
+    "cat": "Managing Risk",
+    "pregunta_en": "In general, how often should a driver check the tyre pressure of a vehicle?",
+    "pregunta_es": "En general, ¿con qué frecuencia debe un conductor revisar la presión de las llantas de un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "Regularly. (Regularmente.)",
+      "Monthly. (Mensualmente.)",
+      "Six monthly. (Cada seis meses.)",
+      "Annually. (Anualmente.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 98,
+    "cat": "Managing Risk",
+    "pregunta_en": "What is the main reason for maintaining the correct tyre pressures?",
+    "pregunta_es": "¿Cuál es la razón principal para mantener la presión correcta de las llantas?",
+    "imagen": null,
+    "opciones_es": [
+      "To help provide optimum road holding. (Para ayudar a proporcionar un agarre óptimo en la carretera.)",
+      "To stop the vehicle from sloping to the left. (Para evitar que el vehículo se incline hacia la izquierda.)",
+      "To help maintain the correct ground clearance. (Para ayudar a mantener la altura libre al suelo correcta.)",
+      "To reduce engine wear. (Para reducir el desgaste del motor.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 99,
+    "cat": "Managing Risk",
+    "pregunta_en": "A fault in which component may lead to uneven or excessive tyre wear?",
+    "pregunta_es": "¿Una falla en qué componente puede provocar un desgaste desigual o excesivo de las llantas?",
+    "imagen": null,
+    "opciones_es": [
+      "Suspension. (La suspensión.)",
+      "Clutch. (El embrague.)",
+      "Accelerator. (El acelerador.)",
+      "Gearbox. (La caja de cambios.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 100,
+    "cat": "Managing Risk",
+    "pregunta_en": "What can be affected by driving on under-inflated tyres?",
+    "pregunta_es": "¿Qué puede verse afectado al conducir con llantas desinfladas?",
+    "imagen": null,
+    "opciones_es": [
+      "Fuel consumption. (El consumo de combustible.)",
+      "The coolant system. (El sistema de refrigeración.)",
+      "The exhaust system. (El sistema de escape.)",
+      "Oil pressure. (La presión del aceite.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 101,
+    "cat": "Managing Risk",
+    "pregunta_en": "When should tyre pressure be checked?",
+    "pregunta_es": "¿Cuándo se debe revisar la presión de las llantas?",
+    "imagen": null,
+    "opciones_es": [
+      "When the tyres are cold. (Cuando las llantas están frías.)",
+      "At service intervals only. (Solo en los intervalos de servicio.)",
+      "When the tyres are part-worn. (Cuando las llantas están parcialmente desgastadas.)",
+      "When the tyres are hot. (Cuando las llantas están calientes.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 102,
+    "cat": "Managing Risk",
+    "pregunta_en": "During a weekly check, a driver notices a badly worn front tyre. What should the driver do?",
+    "pregunta_es": "Durante una revisión semanal, un conductor nota una llanta delantera muy desgastada. ¿Qué debe hacer el conductor?",
+    "imagen": null,
+    "opciones_es": [
+      "Have the worn tyre replaced. (Hacer que reemplacen la llanta desgastada.)",
+      "Reduce speed when driving on wet roads. (Reducir la velocidad al conducir en carreteras mojadas.)",
+      "Fit the worn tyre on one of the rear wheels. (Instalar la llanta desgastada en una de las ruedas traseras.)",
+      "Check the tyre pressure to ensure it remains constant. (Revisar la presión de la llanta para asegurar que se mantenga constante.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 103,
+    "cat": "Managing Risk",
+    "pregunta_en": "What effect could hitting or mounting the kerb have on a vehicle's tyres?",
+    "pregunta_es": "¿Qué efecto podría tener golpear o subirse al bordillo (acera) en las llantas de un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "It could damage the sidewalls. (Podría dañar los flancos/paredes laterales.)",
+      "It could wear the tread. (Podría desgastar el dibujo.)",
+      "It could strengthen the sidewalls. (Podría fortalecer los flancos.)",
+      "It could increase the air pressure. (Podría aumentar la presión del aire.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 104,
+    "cat": "Managing Risk",
+    "pregunta_en": "What does worn tread along the edge of the inside of a tyre suggest?",
+    "pregunta_es": "¿Qué sugiere el desgaste del dibujo a lo largo del borde interior de una llanta?",
+    "imagen": null,
+    "opciones_es": [
+      "Steering alignment may be faulty. (La alineación de la dirección puede estar defectuosa.)",
+      "Air pressure is low. (La presión del aire es baja.)",
+      "Air pressure is high. (La presión del aire es alta.)",
+      "The vehicle has been driven too fast around corners. (El vehículo se ha conducido demasiado rápido en las curvas.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 105,
+    "cat": "Managing Risk",
+    "pregunta_en": "With regard to tyres, what should a driver do before starting a long journey?",
+    "pregunta_es": "Con respecto a las llantas, ¿qué debe hacer un conductor antes de comenzar un viaje largo?",
+    "imagen": null,
+    "opciones_es": [
+      "Check the tyres are inflated to normal air pressure. (Revisar que las llantas estén infladas a la presión de aire normal.)",
+      "Reduce the air pressure in the tyres. (Reducir la presión del aire en las llantas.)",
+      "Increase the air pressure in the tyres. (Aumentar la presión del aire en las llantas.)",
+      "Reduce front tyre air pressure and increase rear tyre air pressure. (Reducir la presión delantera y aumentar la trasera.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 106,
+    "cat": "Managing Risk",
+    "pregunta_en": "Under what circumstances would a driver increase the air pressure in the tyres?",
+    "pregunta_es": "¿Bajo qué circunstancias aumentaría un conductor la presión de aire en las llantas?",
+    "imagen": null,
+    "opciones_es": [
+      "When taking a journey with additional passengers. (Al realizar un viaje con pasajeros adicionales.)",
+      "When the journey exceeds 200 km. (Cuando el viaje supera los 200 km.)",
+      "When higher speeds are expected on motorway driving. (Cuando se esperan velocidades más altas al conducir por autopista.)",
+      "When the tread depth on the tyres is below 2 mm. (Cuando la profundidad del dibujo de las llantas es inferior a 2 mm.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 107,
+    "cat": "Managing Risk",
+    "pregunta_en": "What is the most common cause of heavy steering?",
+    "pregunta_es": "¿Cuál es la causa más común de una dirección pesada (dura)?",
+    "imagen": null,
+    "opciones_es": [
+      "Under-inflated tyres. (Llantas poco infladas.)",
+      "Badly worn brakes. (Frenos muy desgastados.)",
+      "Over-inflated tyres. (Llantas demasiado infladas.)",
+      "Poorly oiled steering. (Dirección mal lubricada.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 108,
+    "cat": "Managing Risk",
+    "pregunta_en": "A driver has stalled in the middle of an unguarded level crossing and cannot restart the engine. The warning bell is ringing. What should the driver do?",
+    "pregunta_es": "Un conductor se ha quedado parado en medio de un paso a nivel sin vigilancia y no puede reiniciar el motor. La campana de advertencia está sonando. ¿Qué debe hacer el conductor?",
+    "imagen": null,
+    "opciones_es": [
+      "Walk clear of the crossing and phone the signal operator so that trains can be stopped. (Caminar fuera del cruce y llamar al operador de señales para que se detengan los trenes.)",
+      "Stay at the vehicle and warn the approaching train. (Quedarse en el vehículo y avisar al tren que se aproxima.)",
+      "Try to restart the engine in first gear. (Intentar arrancar el motor en primera marcha.)",
+      "Push the vehicle clear of the crossing. (Empujar el vehículo fuera del cruce.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 109,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do if their vehicle breaks down on an automatic railway level crossing?",
+    "pregunta_es": "¿Qué debe hacer un conductor si su vehículo se avería en un paso a nivel ferroviario automático?",
+    "imagen": null,
+    "opciones_es": [
+      "Get passengers clear of the crossing and phone the signal operator so that trains can be stopped. (Sacar a los pasajeros del cruce y llamar al operador de señales para que se detengan los trenes.)",
+      "Walk along the track to give warning to any approaching trains. (Caminar por la vía para avisar a los trenes que se aproximen.)",
+      "Try to push the vehicle clear of the crossing as soon as possible. (Intentar empujar el vehículo fuera del cruce lo antes posible.)",
+      "Turn on the warning bells at the crossing. (Encender las campanas de advertencia en el cruce.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 110,
+    "cat": "Managing Risk",
+    "pregunta_en": "What is the immediate effect of a head-on collision between two cars at speed?",
+    "pregunta_es": "¿Cuál es el efecto inmediato de una colisión frontal entre dos coches a velocidad?",
+    "imagen": null,
+    "opciones_es": [
+      "All persons in each vehicle are thrown violently forward. (Todas las personas en cada vehículo son lanzadas violentamente hacia adelante.)",
+      "All persons in each vehicle are thrown violently backwards only. (Todas las personas en cada vehículo son lanzadas violentamente hacia atrás únicamente.)",
+      "Only front seatbelts will activate. (Solo se activarán los cinturones de seguridad delanteros.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 111,
+    "cat": "Managing Risk",
+    "pregunta_en": "When should a driver use their hazard warning lights?",
+    "pregunta_es": "¿Cuándo debe un conductor usar sus luces de emergencia?",
+    "imagen": null,
+    "opciones_es": [
+      "When the vehicle has broken down. (Cuando el vehículo se ha averiado.)",
+      "When the brake lights are not working. (Cuando las luces de freno no funcionan.)",
+      "When about to pull in and stop. (Cuando esté a punto de detenerse y parar.)",
+      "When parking for a short time on a single yellow line. (Al estacionar por poco tiempo en una línea amarilla continua.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 112,
+    "cat": "Managing Risk",
+    "pregunta_en": "When should a driver use their vehicle's hazard warning lights?",
+    "pregunta_es": "¿Cuándo debe un conductor usar las luces de emergencia de su vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "When causing an unavoidable obstruction. (Cuando cause una obstrucción inevitable.)",
+      "When double parking. (Al estacionar en doble fila.)",
+      "When the brake lights are not working. (Cuando las luces de freno no funcionan.)",
+      "When a following vehicle is too close. (Cuando un vehículo que le sigue está demasiado cerca.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 113,
+    "cat": "Managing Risk",
+    "pregunta_en": "When should a driver use their vehicle's hazard warning lights?",
+    "pregunta_es": "¿Cuándo debe un conductor usar las luces de emergencia de su vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "When broken down and causing an obstruction. (Cuando esté averiado y causando una obstrucción.)",
+      "When reversing onto a narrow road. (Al dar marcha atrás en una carretera estrecha.)",
+      "When moving slowly in traffic. (Al moverse lentamente en el tráfico.)",
+      "When parked at a bend or corner. (Al estar estacionado en una curva o esquina.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 114,
+    "cat": "Managing Risk",
+    "pregunta_en": "When a wiper blade fails to clear the windscreen what should the driver do?",
+    "pregunta_es": "Cuando una escobilla del limpiaparabrisas no logra limpiar el parabrisas, ¿qué debe hacer el conductor?",
+    "imagen": null,
+    "opciones_es": [
+      "Have the wiper blades replaced as soon as possible. (Hacer que reemplacen las escobillas lo antes posible.)",
+      "Apply a light film of oil to both of the wiper blades. (Aplicar una ligera película de aceite a ambas escobillas.)",
+      "Bend the wiper arm to apply more pressure on the windscreen. (Doblar el brazo del limpiaparabrisas para aplicar más presión sobre el parabrisas.)",
+      "Switch the wiper control from high speed to low speed repeatedly. (Cambiar repetidamente el control del limpiaparabrisas de alta a baja velocidad.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 115,
+    "cat": "Managing Risk",
+    "pregunta_en": "If a vehicle breaks down on a motorway, what should a person do?",
+    "pregunta_es": "Si un vehículo se avería en una autopista, ¿qué debe hacer una persona?",
+    "imagen": null,
+    "opciones_es": [
+      "Use a roadside phone to contact Gardaí and never try to carry out repairs yourself. (Usar un teléfono de la carretera para contactar a los Gardaí y nunca intentar realizar reparaciones uno mismo.)",
+      "Turn on the full beam headlights to alert other drivers. (Encender las luces altas para alertar a otros conductores.)",
+      "Ask a passenger to stand on the road to warn other traffic. (Pedir a un pasajero que se pare en la carretera para advertir al resto del tráfico.)",
+      "Place a red warning triangle on the motorway to warn other drivers. (Colocar un triángulo de advertencia rojo en la autopista para advertir a otros conductores.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 116,
+    "cat": "Managing Risk",
+    "pregunta_en": "On a motorway, when should a driver use the hazard warning lights?",
+    "pregunta_es": "En una autopista, ¿cuándo debe un conductor usar las luces de emergencia?",
+    "imagen": null,
+    "opciones_es": [
+      "When the vehicle has broken down. (Cuando el vehículo se ha averiado.)",
+      "When towing another vehicle. (Al remolcar otro vehículo.)",
+      "When another vehicle is following too closely. (Cuando otro vehículo lo sigue demasiado de cerca.)",
+      "When parked in the hard shoulder to take a phone call. (Al estar estacionado en el arcén para atender una llamada.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 117,
+    "cat": "Managing Risk",
+    "pregunta_en": "If a vehicle breaks down on a motorway, what should a person do?",
+    "pregunta_es": "Si un vehículo se avería en una autopista, ¿qué debe hacer una persona?",
+    "imagen": null,
+    "opciones_es": [
+      "Move the vehicle to the hard shoulder. (Mover el vehículo al arcén.)",
+      "Place a red warning triangle to the left of the vehicle. (Colocar un triángulo de advertencia rojo a la izquierda del vehículo.)",
+      "Ask a passenger to stand on the motorway to warn other traffic. (Pedir a un pasajero que se pare en la autopista para advertir al resto del tráfico.)",
+      "Turn on the full beam headlights. (Encender las luces altas.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 118,
+    "cat": "Managing Risk",
+    "pregunta_en": "If a vehicle breaks down on a motorway, what should a person do?",
+    "pregunta_es": "Si un vehículo se avería en una autopista, ¿qué debe hacer una persona?",
+    "imagen": null,
+    "opciones_es": [
+      "Wear a high-visibility vest. (Usar un chaleco de alta visibilidad.)",
+      "Turn on the full beam headlights. (Encender las luces altas.)",
+      "Place a red warning triangle to the left of the vehicle. (Colocar un triángulo de advertencia rojo a la izquierda del vehículo.)",
+      "Ask a passenger to stand on the motorway to warn other traffic. (Pedir a un pasajero que se pare en la autopista para advertir al resto del tráfico.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 119,
+    "cat": "Managing Risk",
+    "pregunta_en": "A driver wishes to drive at night, but the offside (right-hand side) headlight bulb is blown. What should the driver do?",
+    "pregunta_es": "Un conductor desea conducir de noche, pero la bombilla del faro derecho (lado exterior) está fundida. ¿Qué debe hacer el conductor?",
+    "imagen": null,
+    "opciones_es": [
+      "Not drive until the bulb is replaced. (No conducir hasta que se reemplace la bombilla.)",
+      "Replace it temporarily with the nearside (left-hand side) bulb. (Reemplazarla temporalmente con la bombilla del lado izquierdo.)",
+      "Drive with the hazard lights on. (Conducir con las luces de emergencia encendidas.)",
+      "Replace it temporarily with the brake-light bulb. (Reemplazarla temporalmente con la bombilla de la luz de freno.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 120,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do if the right-hand headlight bulb fails when driving at night?",
+    "pregunta_es": "¿Qué debe hacer un conductor si la bombilla del faro derecho falla al conducir de noche?",
+    "imagen": null,
+    "opciones_es": [
+      "Have the bulb replaced immediately. (Hacer reemplazar la bombilla inmediatamente.)",
+      "Drive with the hazard lights on. (Conducir con las luces de emergencia encendidas.)",
+      "Replace it temporarily with the brake light bulb. (Reemplazarla temporalmente con la bombilla de la luz de freno.)",
+      "Replace it temporarily with the left-hand headlight bulb. (Reemplazarla temporalmente con la bombilla del faro izquierdo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 121,
+    "cat": "Managing Risk",
+    "pregunta_en": "Generally what lighting must a car, tractor or works vehicle have when driving?",
+    "pregunta_es": "Generalmente, ¿qué iluminación debe tener un coche, tractor o vehículo de obras al conducir?",
+    "imagen": null,
+    "opciones_es": [
+      "Headlights, front and rear side lights, rear number plate light, red rear reflectors, brake lights and indicators. (Faros, luces de posición delanteras y traseras, luz de matrícula trasera, reflectores rojos traseros, luces de freno e indicadores.)",
+      "Headlights, number plate and rear reflectors only. (Solo faros, matrícula y reflectores traseros.)",
+      "Headlights and a reversing light. (Faros y una luz de marcha atrás.)",
+      "Headlights, brake lights and indicators only. (Solo faros, luces de freno e indicadores.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 122,
+    "cat": "Managing Risk",
+    "pregunta_en": "What effect do the hazard warning lights have on the brake lights?",
+    "pregunta_es": "¿Qué efecto tienen las luces de emergencia sobre las luces de freno?",
+    "imagen": null,
+    "opciones_es": [
+      "They have no effect. (No tienen ningún efecto.)",
+      "They cause the brake lights to flash repeatedly. (Hacen que las luces de freno parpadeen repetidamente.)",
+      "They cause the left and right brake lights to flash alternately. (Hacen que las luces de freno izquierda y derecha parpadeen alternadamente.)",
+      "They cause the brake lights to switch off completely. (Hacen que las luces de freno se apaguen por completo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 123,
+    "cat": "Managing Risk",
+    "pregunta_en": "What lighting must be on a two-axle car-trailer?",
+    "pregunta_es": "¿Qué iluminación debe tener un remolque de coche de dos ejes?",
+    "imagen": null,
+    "opciones_es": [
+      "Indicators, brake lights, rear number plate light, red reflectors and rear tail lights. (Indicadores, luces de freno, luz de matrícula trasera, reflectores rojos y luces traseras de posición.)",
+      "Flashing rear tail lights. (Luces traseras de posición parpadeantes.)",
+      "Indicators and rear number plate lights only. (Solo indicadores y luces de matrícula traseras.)",
+      "Brake lights and indicators only. (Solo luces de freno e indicadores.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 124,
+    "cat": "Managing Risk",
+    "pregunta_en": "What lighting must be on a tractors trailer during lighting-up hours?",
+    "pregunta_es": "¿Qué iluminación debe tener el remolque de un tractor durante las horas de encendido de luces?",
+    "imagen": null,
+    "opciones_es": [
+      "Indicators, brake lights, rear number plate light, red reflectors and rear tail lights. (Indicadores, luces de freno, luz de matrícula trasera, reflectores rojos y luces traseras de posición.)",
+      "An unloading light. (Una luz de descarga.)",
+      "Indicators, two white or yellow headlamps and rear number plate lights only. (Solo indicadores, dos faros blancos o amarillos y luces de matrícula traseras.)",
+      "Brake lights and indicators only. (Solo luces de freno e indicadores.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 125,
+    "cat": "Managing Risk",
+    "pregunta_en": "What danger could be associated with driving a tractor and trailer over a humpbacked bridge?",
+    "pregunta_es": "¿Qué peligro podría asociarse con la conducción de un tractor y un remolque sobre un puente de lomo de asno (puente jorobado)?",
+    "imagen": null,
+    "opciones_es": [
+      "The trailer could become detached. (El remolque podría soltarse.)",
+      "The trailer could jack-knife. (El remolque podría plegarse en tijera.)",
+      "The tractor's suspension could smooth out the bump. (La suspensión del tractor podría suavizar el bache.)",
+      "The trailer's parking brake could automatically engage. (El freno de estacionamiento del remolque podría activarse automáticamente.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 126,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do when requested to drive a vehicle that they feel is overloaded?",
+    "pregunta_es": "¿Qué debe hacer un conductor cuando se le solicita conducir un vehículo que considera que está sobrecargado?",
+    "imagen": null,
+    "opciones_es": [
+      "Refuse to drive the vehicle. (Negarse a conducir el vehículo.)",
+      "Drive at a slower speed than normal. (Conducir a una velocidad más lenta de lo normal.)",
+      "Drive the vehicle only if accompanied. (Conducir el vehículo solo si va acompañado.)",
+      "Ensure that the load is properly restrained. (Asegurarse de que la carga esté debidamente sujeta.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 127,
+    "cat": "Managing Risk",
+    "pregunta_en": "How could towing an overloaded trailer affect a vehicle?",
+    "pregunta_es": "¿Cómo podría afectar a un vehículo el remolcar un remolque sobrecargado?",
+    "imagen": null,
+    "opciones_es": [
+      "It could impair the vehicle's steering and braking. (Podría afectar la dirección y el frenado del vehículo.)",
+      "It could improve the vehicle's fuel consumption. (Podría mejorar el consumo de combustible del vehículo.)",
+      "It could improve road holding on bends. (Podría mejorar el agarre en las curvas.)",
+      "It could improve braking ability when going downhill. (Podría mejorar la capacidad de frenado al bajar pendientes.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 128,
+    "cat": "Managing Risk",
+    "pregunta_en": "What does the load index of a tyre indicate?",
+    "pregunta_es": "¿Qué indica el índice de carga de una llanta?",
+    "imagen": null,
+    "opciones_es": [
+      "The maximum load a tyre can carry. (La carga máxima que puede soportar una llanta.)",
+      "The maximum load of the vehicle. (La carga máxima del vehículo.)",
+      "The maximum load per axle. (La carga máxima por eje.)",
+      "The maximum air pressure of the tyre. (La presión máxima de aire de la llanta.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 129,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do before towing a caravan?",
+    "pregunta_es": "¿Qué debe hacer un conductor antes de remolcar una caravana?",
+    "imagen": null,
+    "opciones_es": [
+      "Have extended mirrors fitted to the towing vehicle. (Instalar espejos extendidos en el vehículo remolcador.)",
+      "Ensure all passengers are securely seated in the caravan. (Asegurarse de que todos los pasajeros estén sentados de forma segura en la caravana.)",
+      "Have an extended mirror fitted to the driver's side of the vehicle only. (Instalar un espejo extendido solo en el lado del conductor.)",
+      "Ensure that only adult passengers are seated in the caravan. (Asegurarse de que solo pasajeros adultos estén sentados en la caravana.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 130,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do if condensation is affecting the vehicle's windows?",
+    "pregunta_es": "¿Qué debe hacer un conductor si la condensación está afectando las ventanas del vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "Dry the windows with a cloth and then use the demister system. (Secar las ventanas con un paño y luego usar el sistema desempañador.)",
+      "Drive for a few kilometres with a window open. (Conducir unos kilómetros con una ventana abierta.)",
+      "Wipe the windows with the back of the hand. (Limpiar las ventanas con el dorso de la mano.)",
+      "Make sure that all demister vents and windows are closed. (Asegurarse de que todas las rejillas del desempañador y las ventanas estén cerradas.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 131,
+    "cat": "Managing Risk",
+    "pregunta_en": "How can sunlight affect visibility in a car with dirty windows?",
+    "pregunta_es": "¿Cómo puede afectar la luz solar a la visibilidad en un coche con las ventanas sucias?",
+    "imagen": null,
+    "opciones_es": [
+      "It can seriously reduce visibility. (Puede reducir seriamente la visibilidad.)",
+      "It can enhance visibility. (Puede mejorar la visibilidad.)",
+      "It can cause objects to seem closer than they are. (Puede hacer que los objetos parezcan más cercanos de lo que están.)",
+      "It can cause objects to seem further away than they are. (Puede hacer que los objetos parezcan más lejanos de lo que están.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 132,
+    "cat": "Managing Risk",
+    "pregunta_en": "When changing a wheel on a public road, what should a person do to ensure their own safety?",
+    "pregunta_es": "Al cambiar una rueda en la vía pública, ¿qué debe hacer una persona para garantizar su propia seguridad?",
+    "imagen": null,
+    "opciones_es": [
+      "Wear reflective clothing and switch on the vehicle hazard warning lights. (Usar ropa reflectante y encender las luces de emergencia del vehículo.)",
+      "Ask a bystander to warn traffic by beckoning them from the middle of the road. (Pedir a un transeúnte que avise al tráfico haciéndoles señas desde el medio de la carretera.)",
+      "Ensure the vehicle is in reverse gear and front wheels are facing the roadway. (Asegurarse de que el vehículo esté en marcha atrás y las ruedas delanteras miren hacia la calzada.)",
+      "Ensure the vehicle is in first gear and the wheels are facing the roadway. (Asegurarse de que el vehículo esté en primera marcha y las ruedas miren hacia la calzada.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 133,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do to reduce the risk of neck injury in the event of a rear-end collision?",
+    "pregunta_es": "¿Qué debe hacer un conductor para reducir el riesgo de lesiones en el cuello en caso de una colisión por alcance (trasera)?",
+    "imagen": null,
+    "opciones_es": [
+      "Use a properly adjusted head restraint. (Usar un reposacabezas correctamente ajustado.)",
+      "Ensure the vehicle has anti-lock brakes. (Asegurarse de que el vehículo tenga frenos antibloqueo.)",
+      "Ensure the vehicle has a rear spoiler. (Asegurarse de que el vehículo tenga un alerón trasero.)",
+      "Use a properly adjusted seat belt. (Usar un cinturón de seguridad correctamente ajustado.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 134,
+    "cat": "Managing Risk",
+    "pregunta_en": "Where safety belts are fitted to a car when must adult occupants wear them?",
+    "pregunta_es": "Donde los cinturones de seguridad están instalados en un coche, ¿cuándo deben usarlos los ocupantes adultos?",
+    "imagen": null,
+    "opciones_es": [
+      "At all times. (En todo momento.)",
+      "When travelling on long journeys. (Al viajar en trayectos largos.)",
+      "Only when instructed to do so by the driver. (Solo cuando el conductor así lo indique.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 135,
+    "cat": "Managing Risk",
+    "pregunta_en": "Who is responsible for ensuring that a passenger over 17 years of age is wearing a seat belt while travelling in a car?",
+    "pregunta_es": "¿Quién es responsable de asegurar que un pasajero mayor de 17 años use el cinturón de seguridad mientras viaja en un coche?",
+    "imagen": null,
+    "opciones_es": [
+      "The passenger only. (Solo el pasajero.)",
+      "The driver only. (Solo el conductor.)",
+      "Both the driver and the passenger. (Tanto el conductor como el pasajero.)",
+      "The driver when the passenger is in the front seat. (El conductor cuando el pasajero va en el asiento delantero.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 136,
+    "cat": "Managing Risk",
+    "pregunta_en": "Who is responsible for ensuring that a passenger under 17 years of age is wearing a seat belt while travelling in a car?",
+    "pregunta_es": "¿Quién es responsable de asegurar que un pasajero menor de 17 años use el cinturón de seguridad mientras viaja en un coche?",
+    "imagen": null,
+    "opciones_es": [
+      "The driver only. (Solo el conductor.)",
+      "The passenger only. (Solo el pasajero.)",
+      "The passenger's parents. (Los padres del pasajero.)",
+      "The driver, but only when the passenger is in the front seat. (El conductor, pero solo cuando el pasajero va en el asiento delantero.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 137,
+    "cat": "Managing Risk",
+    "pregunta_en": "Who is responsible for ensuring that a child wears a child restraint system in a vehicle?",
+    "pregunta_es": "¿Quién es responsable de asegurar que un niño use un sistema de retención infantil en un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "The driver only. (Solo el conductor.)",
+      "The child, if over 12 years of age. (El niño, si es mayor de 12 años.)",
+      "Any adult passenger. (Cualquier pasajero adulto.)",
+      "The parents of the child only. (Solo los padres del niño.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 138,
+    "cat": "Managing Risk",
+    "pregunta_en": "In general, how should children under 3 years of age be secured in a vehicle?",
+    "pregunta_es": "En general, ¿cómo deben estar sujetos los niños menores de 3 años en un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "They should always be secured in the correct child seat. (Siempre deben estar sujetos en la silla infantil correcta.)",
+      "They should always be carried in an adult's lap. (Siempre deben ser llevados en el regazo de un adulto.)",
+      "They should always sit on the rear passenger seat. (Siempre deben ir sentados en el asiento trasero.)",
+      "They should always be placed in the front passenger seat wearing a seat belt. (Siempre deben colocarse en el asiento delantero con cinturón de seguridad.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 139,
+    "cat": "Managing Risk",
+    "pregunta_en": "Can a child under the age of 3 years be carried unrestrained in the vehicle's front passenger seat?",
+    "pregunta_es": "¿Puede un niño menor de 3 años viajar sin sujeción en el asiento del pasajero delantero?",
+    "imagen": null,
+    "opciones_es": [
+      "No, an infant must always be restrained in the correct child seat. (No, un bebé siempre debe estar sujeto en la silla infantil correcta.)",
+      "No, unless the child is using a child booster seat. (No, a menos que el niño use un asiento elevador.)",
+      "Yes, provided the infant is held securely by an adult. (Sí, siempre que el bebé sea sostenido firmemente por un adulto.)",
+      "Yes, but only if the vehicle is fitted with active airbags. (Sí, pero solo si el vehículo tiene airbags activos.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 140,
+    "cat": "Managing Risk",
+    "pregunta_en": "Why should a driver adjust their head restraint before starting a journey?",
+    "pregunta_es": "¿Por qué debe un conductor ajustar su reposacabezas antes de comenzar un viaje?",
+    "imagen": null,
+    "opciones_es": [
+      "To provide support to the neck in the event of a collision. (Para proporcionar apoyo al cuello en caso de colisión.)",
+      "To improve rear passengers' view of the road ahead. (Para mejorar la vista de los pasajeros traseros hacia adelante.)",
+      "To prevent glare from the headlights of following vehicles. (Para evitar el deslumbramiento de los faros de los vehículos que le siguen.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 141,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should the driver do to secure the vehicle when changing a front nearside (left-hand side) wheel?",
+    "pregunta_es": "¿Qué debe hacer el conductor para asegurar el vehículo al cambiar la rueda delantera izquierda (lado cercano)?",
+    "imagen": null,
+    "opciones_es": [
+      "Ensure that the vehicle cannot roll when jacked up. (Asegurarse de que el vehículo no pueda rodar cuando esté levantado con el gato.)",
+      "Point the front wheels towards the kerb. (Orientar las ruedas delanteras hacia el bordillo.)",
+      "Ensure the gear lever is in neutral. (Asegurarse de que la palanca de cambios esté en punto muerto.)",
+      "Point the front wheels away from the kerb. (Orientar las ruedas delanteras lejos del bordillo.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 142,
+    "cat": "Managing Risk",
+    "pregunta_en": "Which of the following is a driver required to keep in good condition?",
+    "pregunta_es": "¿Cuál de los siguientes elementos está obligado un conductor a mantener en buen estado?",
+    "imagen": null,
+    "opciones_es": [
+      "Seatbelts. (Cinturones de seguridad.)",
+      "Upholstery. (Tapicería.)",
+      "Radio. (Radio.)",
+      "Paintwork. (Pintura.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 143,
+    "cat": "Managing Risk",
+    "pregunta_en": "What danger can arise from the power take-off shaft of a tractor?",
+    "pregunta_es": "¿Qué peligro puede surgir del eje de toma de fuerza (PTO) de un tractor?",
+    "imagen": null,
+    "opciones_es": [
+      "If it is not covered, clothing can get caught in it. (Si no está cubierto, la ropa puede quedar atrapada en él.)",
+      "If it is not disengaged, the battery will run flat. (Si no se desacopla, la batería se descargará.)",
+      "If it is not disengaged, the steering will lock. (Si no se desacopla, la dirección se bloqueará.)",
+      "If it is not covered, the tractor will speed up rapidly. (Si no está cubierto, el tractor acelerará rápidamente.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 144,
+    "cat": "Managing Risk",
+    "pregunta_en": "When attaching a trailer to their vehicle, what must a driver check?",
+    "pregunta_es": "Al enganchar un remolque a su vehículo, ¿qué debe comprobar el conductor?",
+    "imagen": null,
+    "opciones_es": [
+      "That the load is evenly spread. (Que la carga esté distribuida uniformemente.)",
+      "That the load is positioned to the front of the trailer. (Que la carga esté colocada en la parte delantera del remolque.)",
+      "That the load is positioned to the rear of the trailer. (Que la carga esté colocada en la parte trasera del remolque.)",
+      "That the trailer has a spare wheel. (Que el remolque tenga una rueda de repuesto.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 145,
+    "cat": "Managing Risk",
+    "pregunta_en": "When attaching a trailer to their vehicle, what must a driver check?",
+    "pregunta_es": "Al enganchar un remolque a su vehículo, ¿qué debe comprobar el conductor?",
+    "imagen": null,
+    "opciones_es": [
+      "That the trailer coupling is attached securely. (Que el acoplamiento del remolque esté bien sujeto.)",
+      "That the trailer springs are well greased. (Que los resortes del remolque estén bien engrasados.)",
+      "That the trailer has a spare wheel. (Que el remolque tenga una rueda de repuesto.)",
+      "That the load is positioned to the front of the trailer. (Que la carga esté colocada en la parte delantera del remolque.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 146,
+    "cat": "Managing Risk",
+    "pregunta_en": "What should a driver do to secure the towing vehicle before unhitching a trailer?",
+    "pregunta_es": "¿Qué debe hacer un conductor para asegurar el vehículo remolcador antes de desenganchar un remolque?",
+    "imagen": null,
+    "opciones_es": [
+      "Apply the handbrake, switch off the ignition and engage a low gear. (Poner el freno de mano, apagar el motor y meter una marcha corta.)",
+      "Disconnect the electrical supply to the trailer lights and lower the jockey wheel. (Desconectar el suministro eléctrico de las luces del remolque y bajar la rueda jockey.)",
+      "Apply the handbrake, lower the jockey wheel and switch off the engine. (Poner el freno de mano, bajar la rueda jockey y apagar el motor.)",
+      "Lower the jockey wheel and then switch off the ignition. (Bajar la rueda jockey y luego apagar el motor.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 147,
+    "cat": "Managing Risk",
+    "pregunta_en": "What is the minimum legal tread depth for tyres on cars?",
+    "pregunta_es": "¿Cuál es la profundidad mínima legal del dibujo de las llantas en los coches?",
+    "imagen": null,
+    "opciones_es": [
+      "1.6 millimetres (1.6 milímetros)",
+      "0.6 millimetres (0.6 milímetros)",
+      "1 millimetre (1 milímetro)",
+      "2.6 millimetres (2.6 milímetros)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 148,
+    "cat": "Managing Risk",
+    "pregunta_en": "A driver notices that the wiper blades are worn. What should they do?",
+    "pregunta_es": "Un conductor nota que las escobillas del limpiaparabrisas están desgastadas. ¿Qué debe hacer?",
+    "imagen": null,
+    "opciones_es": [
+      "Have the blades replaced as soon as possible. (Hacer que reemplacen las escobillas lo antes posible.)",
+      "Wipe the windscreen with newspaper. (Limpiar el parabrisas con papel de periódico.)",
+      "Use the windscreen washer system while it is raining. (Usar el sistema lavaparabrisas mientras llueve.)",
+      "Roll down the window and drive slowly. (Bajar la ventana y conducir despacio.)"
+    ],
+    "correcta": 0
+  },
+  {
+    "id": 149,
+    "cat": "Managing Risk",
+    "pregunta_en": "How should a child restraint system be fitted in a vehicle?",
+    "pregunta_es": "¿Cómo debe instalarse un sistema de retención infantil en un vehículo?",
+    "imagen": null,
+    "opciones_es": [
+      "It should be fitted in accordance with the manufacturer's instructions. (Debe instalarse de acuerdo con las instrucciones del fabricante.)",
+      "It should be placed on a front passenger seat only. (Solo debe colocarse en el asiento del pasajero delantero.)",
+      "It should be left unsecured. (Debe dejarse sin asegurar.)",
+      "It should be placed on the floor. (Debe colocarse en el suelo.)"
+    ],
+    "correcta": 0
+  }
+]
