@@ -756,7 +756,7 @@
       "Report the incident both to the property owner and the Gardai within 48 hours. (Informar del incidente tanto al dueño de la propiedad como a los Gardai en un plazo de 48 horas.)",
       "There is no need to report the incident if there is no damage to the vehicle. (No es necesario informar del incidente si no hay daños en el vehículo.)"
     ],
-    "correcta": 2
+    "correcta": 0
   },
   {
     "id": 56,
@@ -4296,7 +4296,7 @@
       "One-way street ahead. (Calle de sentido único adelante.)",
       "Junction to the left. (Cruce a la izquierda.)"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 312,
@@ -4309,7 +4309,7 @@
       "Turn left. (Gire a la izquierda.)",
       "Dangerous corner ahead. (Esquina peligrosa adelante.)"
     ],
-    "correcta": 2
+    "correcta": 0
   },
   {
     "id": 313,
@@ -4322,7 +4322,7 @@
       "Overhead electric cables. (Cables eléctricos aéreos.)",
       "Series of dangerous bends ahead. (Serie de curvas peligrosas adelante.)"
     ],
-    "correcta": 2
+    "correcta": 0
   },
   {
     "id": 314,
@@ -4335,7 +4335,7 @@
       "Series of dangerous corners ahead. (Serie de esquinas peligrosas adelante.)",
       "Slippery road ahead. (Carretera resbaladiza adelante.)"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 315,
@@ -4430,7 +4430,7 @@
       "Steep ascent ahead. (Ascenso pronunciado adelante.)",
       "Uneven road surface ahead. (Superficie de carretera irregular adelante.)"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 322,
@@ -4443,7 +4443,7 @@
       "Humpback bridge ahead. (Puente de lomo de asno adelante.)",
       "Steep descent ahead. (Descenso pronunciado adelante.)"
     ],
-    "correcta": 2
+    "correcta": 0
   },
   {
     "id": 323,
@@ -4457,7 +4457,7 @@
       "Restricted road width ahead. (Ancho de carretera restringido adelante.)",
       "Road narrows ahead - maximum length of vehicle is indicated. (La carretera se estrecha adelante: se indica la longitud máxima del vehículo.)"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 324,
@@ -4636,7 +4636,7 @@
       "Picnic area ahead. (Área de picnic adelante.)",
       "Pedestrian crossing ahead. (Cruce peatonal adelante.)"
     ],
-    "correcta": 3
+    "correcta": 0
   },
   {
     "id": 337,
@@ -4742,7 +4742,7 @@
       "Falling rocks ahead. (Desprendimiento de rocas adelante.)",
       "Golf course ahead. (Campo de golf adelante.)"
     ],
-    "correcta": 1
+    "correcta": 0
   },
   {
     "id": 345,
@@ -4984,7 +4984,7 @@
       "End of road. (Fin de la carretera.)",
       "End of road works. (Fin de las obras viales.)"
     ],
-    "correcta": 2
+    "correcta": 0
   },
   {
     "id": 363,
@@ -5095,7 +5095,7 @@
       "Soft margin on left. (Arcén blando a la izquierda.)",
       "Slippery surface. (Superficie resbaladiza.)"
     ],
-    "correcta": 2
+    "correcta": 0
   },
   {
     "id": 371,
@@ -5259,7 +5259,7 @@
       "10 metres (10 metros)",
       "15 metres (15 metros)"
     ],
-    "correcta": 2
+    "correcta": 0
   },
   {
     "id": 383,
