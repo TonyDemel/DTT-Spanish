@@ -2072,7 +2072,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/1LM.png",
+    "imagen": "assets/images/1LM.png",
     "opciones_es": [
       "The cyclist intends to move out or turn right. (El ciclista tiene la intención de avanzar o girar a la derecha.)",
       "The cyclist intends to slow down. (El ciclista tiene la intención de reducir la velocidad.)",
@@ -2086,7 +2086,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/2LM.png",
+    "imagen": "assets/images/2LM.png",
     "opciones_es": [
       "The cyclist intends to slow down or stop. (El ciclista tiene la intención de reducir la velocidad o detenerse.)",
       "The cyclist intends to move out. (El ciclista tiene la intención de avanzar.)",
@@ -2100,7 +2100,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/3LM.png",
+    "imagen": "assets/images/3LM.png",
     "opciones_es": [
       "The cyclist intends to go straight on. (El ciclista tiene la intención de seguir recto.)",
       "The cyclist intends to turn left. (El ciclista tiene la intención de girar a la izquierda.)",
@@ -2114,7 +2114,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/4LM.png",
+    "imagen": "assets/images/4LM.png",
     "opciones_es": [
       "The cyclist intends to turn left. (El ciclista tiene la intención de girar a la izquierda.)",
       "The cyclist intends to turn right. (El ciclista tiene la intención de girar a la derecha.)",
@@ -2127,7 +2127,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/5LM.png",
+    "imagen": "assets/images/5LM.png",
     "opciones_es": [
       "The cyclist intends to turn right. (El ciclista tiene la intención de girar a la derecha.)",
       "The cyclist intends to stop. (El ciclista tiene la intención de detenerse.)",
@@ -2140,7 +2140,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/6LM.png",
+    "imagen": "assets/images/6LM.png",
     "opciones_es": [
       "The cyclist intends to turn left. (El ciclista tiene la intención de girar a la izquierda.)",
       "The cyclist intends to stop. (El ciclista tiene la intención de detenerse.)",
@@ -2153,7 +2153,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/7LM.png",
+    "imagen": "assets/images/7LM.png",
     "opciones_es": [
       "The driver intends to turn left. (El conductor tiene la intención de girar a la izquierda.)",
       "The driver intends to turn right. (El conductor tiene la intención de girar a la derecha.)",
@@ -2167,7 +2167,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/8LM.png",
+    "imagen": "assets/images/8LM.png",
     "opciones_es": [
       "The driver intends to move out or turn right. (El conductor tiene la intención de avanzar o girar a la derecha.)",
       "The driver intends to turn left. (El conductor tiene la intención de girar a la izquierda.)",
@@ -2181,7 +2181,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/9LM.png",
+    "imagen": "assets/images/9LM.png",
     "opciones_es": [
       "The driver intends to slow down or stop. (El conductor tiene la intención de reducir la velocidad o detenerse.)",
       "The driver intends to turn left. (El conductor tiene la intención de girar a la izquierda.)",
@@ -2195,7 +2195,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/10LM.png",
+    "imagen": "assets/images/10LM.png",
     "opciones_es": [
       "The driver intends to turn left. (El conductor tiene la intención de girar a la izquierda.)",
       "The driver intends to stop. (El conductor tiene la intención de detenerse.)",
@@ -2209,7 +2209,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/11LM.png",
+    "imagen": "assets/images/11LM.png",
     "opciones_es": [
       "The driver intends to turn right. (El conductor tiene la intención de girar a la derecha.)",
       "The driver intends to slow down. (El conductor tiene la intención de reducir la velocidad.)",
@@ -2223,7 +2223,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this hand signal mean?",
     "pregunta_es": "¿Qué significa esta señal manual?",
-    "imagen": "/assets/images/12LM.png",
+    "imagen": "assets/images/12LM.png",
     "opciones_es": [
       "The driver intends to proceed straight ahead. (El conductor tiene la intención de seguir derecho.)",
       "The driver intends to reverse. (El conductor tiene la intención de retroceder.)",
@@ -2237,7 +2237,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this Garda signal mean?",
     "pregunta_es": "¿Qué significa esta señal del Garda (policía)?",
-    "imagen": "/assets/images/13LM.png",
+    "imagen": "assets/images/13LM.png",
     "opciones_es": [
       "Stop if approaching from the front. (Deténgase si se aproxima por delante.)",
       "Proceed if approaching from the front. (Continúe si se aproxima por delante.)",
@@ -2250,7 +2250,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this Garda signal mean?",
     "pregunta_es": "¿Qué significa esta señal del Garda (policía)?",
-    "imagen": "/assets/images/14LM.png",
+    "imagen": "assets/images/14LM.png",
     "opciones_es": [
       "Stop if approaching from behind. (Deténgase si se aproxima por detrás.)",
       "Turn left. (Girar a la izquierda.)",
@@ -2264,7 +2264,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this Garda signal mean?",
     "pregunta_es": "¿Qué significa esta señal del Garda (policía)?",
-    "imagen": "/assets/images/15LM.png",
+    "imagen": "assets/images/15LM.png",
     "opciones_es": [
       "Stop if approaching from either the front or behind. (Deténgase si se aproxima ya sea por delante o por detrás.)",
       "Proceed if approaching from the front. (Continúe si se aproxima por delante.)",
@@ -2278,7 +2278,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this Garda signal mean?",
     "pregunta_es": "¿Qué significa esta señal del Garda (policía)?",
-    "imagen": "/assets/images/16LM.png",
+    "imagen": "assets/images/16LM.png",
     "opciones_es": [
       "The Garda is beckoning on traffic approaching from either side. (El Garda está haciendo señas al tráfico que se aproxima por cualquier lado.)",
       "The driver must not proceed to the left. (El conductor no debe avanzar hacia la izquierda.)",
@@ -2292,7 +2292,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this Garda signal mean?",
     "pregunta_es": "¿Qué significa esta señal del Garda (policía)?",
-    "imagen": "/assets/images/17LM.png",
+    "imagen": "assets/images/17LM.png",
     "opciones_es": [
       "Traffic approaching from the front may proceed. (El tráfico que se aproxima por delante puede continuar.)",
       "Traffic approaching from the front must stop. (El tráfico que se aproxima por delante debe detenerse.)",
@@ -2684,7 +2684,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "Which car, if any, is parked incorrectly?",
     "pregunta_es": "¿Qué carro, si hay alguno, está estacionado incorrectamente?",
-    "imagen": "/assets/images/carsIncorrectParked.png",
+    "imagen": "assets/images/carsIncorrectParked.png",
     "opciones_es": [
       "Both cars. (Ambos carros.)",
       "The red car. (El carro rojo.)",
@@ -2698,7 +2698,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/stopSign.png",
+    "imagen": "assets/images/stopSign.png",
     "opciones_es": [
       "The driver must stop their vehicle. (El conductor debe detener su vehículo.)",
       "The driver must stop for school crossing ahead. (El conductor debe detenerse por un cruce escolar más adelante.)",
@@ -2711,7 +2711,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What must a driver do when this sign is accompanied by a white stop line on the road?",
     "pregunta_es": "¿Qué debe hacer un conductor cuando esta señal está acompañada de una línea de parada blanca en la carretera?",
-    "imagen": "/assets/images/stopSign.png",
+    "imagen": "assets/images/stopSign.png",
     "opciones_es": [
       "Stop at the line. (Detenerse en la línea.)",
       "Stop past the line. (Detenerse después de la línea.)",
@@ -2724,7 +2724,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What must a driver do when this sign is NOT accompanied by a white stop line on the road?",
     "pregunta_es": "¿Qué debe hacer un conductor cuando esta señal NO está acompañada de una línea de parada blanca en la carretera?",
-    "imagen": "/assets/images/stopSign.png",
+    "imagen": "assets/images/stopSign.png",
     "opciones_es": [
       "Stop at the sign. (Detenerse en la señal.)",
       "Stop past the sign. (Detenerse después de la señal.)",
@@ -2738,7 +2738,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean at a junction?",
     "pregunta_es": "¿Qué significa esta señal en un cruce?",
-    "imagen": "/assets/images/yieldSign.png",
+    "imagen": "assets/images/yieldSign.png",
     "opciones_es": [
       "Yield to traffic on the major road. (Ceder el paso al tráfico en la carretera principal.)",
       "Slow down and yield to pedestrians. (Reducir la velocidad y ceder el paso a los peatones.)",
@@ -2752,7 +2752,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean at a roundabout?",
     "pregunta_es": "¿Qué significa esta señal en una rotonda?",
-    "imagen": "/assets/images/yieldSign.png",
+    "imagen": "assets/images/yieldSign.png",
     "opciones_es": [
       "Yield to traffic coming from the right, or already on the roundabout. (Ceder el paso al tráfico que viene por la derecha o que ya está en la rotonda.)",
       "Yield to traffic coming from the left. (Ceder el paso al tráfico que viene por la izquierda.)",
@@ -2766,7 +2766,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/straightAheadOnly.png",
+    "imagen": "assets/images/straightAheadOnly.png",
     "opciones_es": [
       "Straight ahead only. (Solo recto / de frente.)",
       "Motorway ahead. (Autopista más adelante.)",
@@ -2779,7 +2779,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/turnLeftOnly.png",
+    "imagen": "assets/images/turnLeftOnly.png",
     "opciones_es": [
       "Turn left only. (Giro a la izquierda obligatorio.)",
       "Motorway to the left. (Autopista hacia la izquierda.)",
@@ -2793,7 +2793,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/turnRightOnly.png",
+    "imagen": "assets/images/turnRightOnly.png",
     "opciones_es": [
       "Turn right only. (Giro a la derecha obligatorio.)",
       "Overtake only on the right. (Rebasar solo por la derecha.)",
@@ -2807,7 +2807,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/turnLeftAhead.png",
+    "imagen": "assets/images/turnLeftAhead.png",
     "opciones_es": [
       "Turn left ahead. (Gire a la izquierda más adelante.)",
       "Diversion to the left ahead. (Desvío a la izquierda más adelante.)",
@@ -2821,7 +2821,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/turnRightAhead.png",
+    "imagen": "assets/images/turnRightAhead.png",
     "opciones_es": [
       "You must turn right ahead. (Debe girar a la derecha más adelante.)",
       "Diversion to the right ahead. (Desvío a la derecha más adelante.)",
@@ -2835,7 +2835,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/keepLeft.png",
+    "imagen": "assets/images/keepLeft.png",
     "opciones_es": [
       "Keep left. (Manténgase a la izquierda.)",
       "Pass on the left. (Pase por la izquierda.)",
@@ -2848,7 +2848,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/keepRight.png",
+    "imagen": "assets/images/keepRight.png",
     "opciones_es": [
       "Keep right. (Manténgase a la derecha.)",
       "Traffic crossing from the left. (Tráfico cruzando desde la izquierda.)",
@@ -2861,7 +2861,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/passEitherSide.png",
+    "imagen": "assets/images/passEitherSide.png",
     "opciones_es": [
       "Pass either side. (Puede pasar por cualquier lado.)",
       "One-way street. (Calle de un solo sentido.)",
@@ -2875,7 +2875,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/noEntryAhead.png",
+    "imagen": "assets/images/noEntryAhead.png",
     "opciones_es": [
       "No entry ahead. (Prohibido el paso.)",
       "Cul-de-sac ahead. (Calle sin salida más adelante.)",
@@ -2888,7 +2888,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/noRightTurn.png",
+    "imagen": "assets/images/noRightTurn.png",
     "opciones_es": [
       "No right turn. (Prohibido girar a la derecha.)",
       "Turn right only. (Solo giro a la derecha.)",
@@ -2901,7 +2901,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/noRightTurn.png",
+    "imagen": "assets/images/noRightTurn.png",
     "opciones_es": [
       "No right turn. (Prohibido girar a la derecha.)",
       "Turn right ahead. (Gire a la derecha más adelante.)",
@@ -2914,7 +2914,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/noLeftTurn.png",
+    "imagen": "assets/images/noLeftTurn.png",
     "opciones_es": [
       "No left turn. (Prohibido girar a la izquierda.)",
       "Turn right only. (Solo giro a la derecha.)",
@@ -2927,7 +2927,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/uturnNotPermitted.png",
+    "imagen": "assets/images/uturnNotPermitted.png",
     "opciones_es": [
       "U-turn not permitted. (Giro en U no permitido.)",
       "Entry to tunnel prohibited. (Entrada al túnel prohibida.)",
@@ -2941,7 +2941,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/maxSpeed30.png",
+    "imagen": "assets/images/maxSpeed30.png",
     "opciones_es": [
       "Maximum speed is 30 km/h. (La velocidad máxima es 30 km/h.)",
       "Speed limit continues for 30 kilometres. (El límite de velocidad continúa por 30 kilómetros.)",
@@ -2954,7 +2954,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/maxSpeed50.png",
+    "imagen": "assets/images/maxSpeed50.png",
     "opciones_es": [
       "Maximum speed is 50 km/h. (La velocidad máxima es 50 km/h.)",
       "Minimum speed is 50 km/h. (La velocidad mínima es 50 km/h.)",
@@ -2967,7 +2967,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/maxSpeed60.png",
+    "imagen": "assets/images/maxSpeed60.png",
     "opciones_es": [
       "Maximum speed is 60 km/h. (La velocidad máxima es 60 km/h.)",
       "Minimum speed is 60 km/h. (La velocidad mínima es 60 km/h.)",
@@ -2980,7 +2980,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/maxSpeed80.png",
+    "imagen": "assets/images/maxSpeed80.png",
     "opciones_es": [
       "Maximum speed is 80 km/h. (La velocidad máxima es 80 km/h.)",
       "Minimum speed is 80 km/h. (La velocidad mínima es 80 km/h.)",
@@ -2993,7 +2993,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/maxSpeed100.png",
+    "imagen": "assets/images/maxSpeed100.png",
     "opciones_es": [
       "Maximum speed is 100 km/h. (La velocidad máxima es 100 km/h.)",
       "Minimum speed is 100 km/h. (La velocidad mínima es 100 km/h.)",
@@ -3006,7 +3006,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/maxSpeed120.png",
+    "imagen": "assets/images/maxSpeed120.png",
     "opciones_es": [
       "Maximum speed is 120 km/h. (La velocidad máxima es 120 km/h.)",
       "Minimum speed is 120 km/h. (La velocidad mínima es 120 km/h.)",
@@ -3019,7 +3019,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/parkingPermittedTimesShown.png",
+    "imagen": "assets/images/parkingPermittedTimesShown.png",
     "opciones_es": [
       "Parking permitted during the times shown. (Estacionamiento permitido durante los horarios mostrados.)",
       "Parking prohibited at the times shown. (Estacionamiento prohibido en los horarios mostrados.)",
@@ -3032,7 +3032,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/parkingNotAllowed.png",
+    "imagen": "assets/images/parkingNotAllowed.png",
     "opciones_es": [
       "Parking is not allowed. (No se permite estacionar.)",
       "Private vehicles parking only. (Estacionamiento solo para vehículos privados.)",
@@ -3045,7 +3045,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/clearway.png",
+    "imagen": "assets/images/clearway.png",
     "opciones_es": [
       "Clearway - no stopping or parking during the times shown. (Vía libre: prohibido detenerse o estacionar durante los horarios mostrados.)",
       "Pedestrianised street - no access for vehicles. (Calle peatonal: sin acceso para vehículos.)",
@@ -3058,7 +3058,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/discParkingOperates.png",
+    "imagen": "assets/images/discParkingOperates.png",
     "opciones_es": [
       "Disc parking operates during the time shown. (El estacionamiento con disco funciona durante el horario mostrado.)",
       "Parking without a disc is allowed during the hours shown. (Se permite estacionar sin disco durante las horas mostradas.)",
@@ -3072,7 +3072,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/rankForTaxis.png",
+    "imagen": "assets/images/rankForTaxis.png",
     "opciones_es": [
       "Designated rank for taxis. (Parada designada para taxis.)",
       "Private parking is permitted when the taxi rank is empty. (Se permite el estacionamiento privado cuando la parada de taxis está vacía.)",
@@ -3086,7 +3086,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/cycleTrack.png",
+    "imagen": "assets/images/cycleTrack.png",
     "opciones_es": [
       "Start of cycle track. (Inicio de carril bici.)",
       "Bicycle race track. (Pista de carreras de bicicletas.)",
@@ -3100,7 +3100,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What do these signs together mean?",
     "pregunta_es": "¿Qué significan estas señales juntas?",
-    "imagen": "/assets/images/pedestrianZoneAhead.png",
+    "imagen": "assets/images/pedestrianZoneAhead.png",
     "opciones_es": [
       "Pedestrianised street ahead - traffic not allowed except during times shown. (Calle peatonal más adelante: tráfico no permitido excepto durante los horarios mostrados.)",
       "Clearway ahead - no stopping or parking during times shown. (Vía libre más adelante: prohibido detenerse o estacionar durante los horarios mostrados.)",
@@ -3114,7 +3114,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/Max3Tones.png",
+    "imagen": "assets/images/Max3Tones.png",
     "opciones_es": [
       "Maximum permitted weight is 3 tonnes. (El peso máximo permitido es de 3 toneladas.)",
       "3-axled vehicles are not permitted. (No se permiten vehículos de 3 ejes.)",
@@ -3128,7 +3128,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/noOvertaking.png",
+    "imagen": "assets/images/noOvertaking.png",
     "opciones_es": [
       "No overtaking. (Prohibido adelantar.)",
       "End of dual carriageway. (Fin de la autovía.)",
@@ -3142,7 +3142,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/OnlyBusesAheadDuringTimeIndicated.png",
+    "imagen": "assets/images/OnlyBusesAheadDuringTimeIndicated.png",
     "opciones_es": [
       "Only buses, cyclists and taxis are allowed to use the lane ahead during the hours indicated. (Solo autobuses, ciclistas y taxis pueden usar el carril más adelante durante las horas indicadas.)",
       "Only buses, cyclists and taxis are allowed to use the lane outside the hours indicated. (Solo autobuses, ciclistas y taxis pueden usar el carril fuera de las horas indicadas.)",
@@ -3156,7 +3156,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/withflowBusLaneAheadLeft.png",
+    "imagen": "assets/images/withflowBusLaneAheadLeft.png",
     "opciones_es": [
       "With-flow bus and cycle lane ahead on left. (Carril de autobús y bici en el mismo sentido más adelante a la izquierda.)",
       "Only buses and cyclists may park. (Solo pueden estacionar autobuses y ciclistas.)",
@@ -3170,7 +3170,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/withflowBusonLaneLeft.png",
+    "imagen": "assets/images/withflowBusonLaneLeft.png",
     "opciones_es": [
       "With-flow bus and cycle lane on left. (Carril de autobús y bici en el mismo sentido a la izquierda.)",
       "Parking for buses and bicycles on left. (Estacionamiento para autobuses y bicicletas a la izquierda.)",
@@ -3183,7 +3183,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/busLaneAheadRight.png",
+    "imagen": "assets/images/busLaneAheadRight.png",
     "opciones_es": [
       "Bus and cycle lane ahead on right. (Carril de autobús y bici más adelante a la derecha.)",
       "Cyclists must give way to buses ahead. (Los ciclistas deben ceder el paso a los autobuses más adelante.)",
@@ -3197,7 +3197,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/withflowBusLaneRight.png",
+    "imagen": "assets/images/withflowBusLaneRight.png",
     "opciones_es": [
       "With-flow bus lane on the right. (Carril de autobús en el mismo sentido a la derecha.)",
       "Buses may block the driver's view of cyclists. (Los autobuses pueden bloquear la vista del conductor hacia los ciclistas.)",
@@ -3211,7 +3211,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/contraflowBusLaneRight.png",
+    "imagen": "assets/images/contraflowBusLaneRight.png",
     "opciones_es": [
       "Contra-flow bus lane on the right. (Carril de autobús en sentido contrario a la derecha.)",
       "Cycle track may be crossed by buses. (El carril bici puede ser cruzado por autobuses.)",
@@ -3225,7 +3225,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/contraflowBusLaneRight.png",
+    "imagen": "assets/images/contraflowBusLaneRight.png",
     "opciones_es": [
       "Contra-flow bus lane. (Carril de autobús en sentido contrario.)",
       "Double-decker buses only. (Solo autobuses de dos pisos.)",
@@ -3239,7 +3239,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/tramLaneRight.png",
+    "imagen": "assets/images/tramLaneRight.png",
     "opciones_es": [
       "Tram lane on right. (Carril de tranvía a la derecha.)",
       "Parking only inside the white line. (Estacionamiento solo dentro de la línea blanca.)",
@@ -3253,7 +3253,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/entryMotorway.png",
+    "imagen": "assets/images/entryMotorway.png",
     "opciones_es": [
       "Entry to motorway. (Entrada a la autopista.)",
       "Bridge ahead. (Puente más adelante.)",
@@ -3266,7 +3266,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/motorwayEnds500Mts.png",
+    "imagen": "assets/images/motorwayEnds500Mts.png",
     "opciones_es": [
       "Motorway ends 500 metres ahead. (La autopista termina en 500 metros.)",
       "No overtaking for 500 metres. (Prohibido adelantar durante 500 metros.)",
@@ -3280,7 +3280,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/endMotorway.png",
+    "imagen": "assets/images/endMotorway.png",
     "opciones_es": [
       "End of motorway. (Fin de la autopista.)",
       "No bridges ahead. (No hay puentes más adelante.)",
@@ -3294,7 +3294,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/300MtsExit.png",
+    "imagen": "assets/images/300MtsExit.png",
     "opciones_es": [
       "Three hundred meters to the next exit. (Trescientos metros para la próxima salida.)",
       "Three lanes ahead. (Tres carriles más adelante.)",
@@ -3307,7 +3307,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/200MtsExit.png",
+    "imagen": "assets/images/200MtsExit.png",
     "opciones_es": [
       "200 metres to the next exit. (200 metros para la próxima salida.)",
       "Dual carriageway crossing ahead. (Cruce de autovía más adelante.)",
@@ -3321,7 +3321,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/100MtsExit.png",
+    "imagen": "assets/images/100MtsExit.png",
     "opciones_es": [
       "100 metres to the next exit. (100 metros para la próxima salida.)",
       "Sharp descent for 100 metres. (Descenso pronunciado durante 100 metros.)",
@@ -3334,7 +3334,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "At roadworks, what does this sign mean?",
     "pregunta_es": "En obras viales, ¿qué significa esta señal?",
-    "imagen": "/assets/images/go.png",
+    "imagen": "assets/images/go.png",
     "opciones_es": [
       "Proceed with caution. (Continúe con precaución.)",
       "Proceed only when beckoned to do so. (Continúe solo cuando se le indique.)",
@@ -3347,7 +3347,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "At roadworks, what does this sign mean?",
     "pregunta_es": "En obras viales, ¿qué significa esta señal?",
-    "imagen": "/assets/images/circleStop.png",
+    "imagen": "assets/images/circleStop.png",
     "opciones_es": [
       "Stop before or at the sign. (Deténgase antes o en la señal.)",
       "Stop for school warden. (Deténgase por el oficial de cruce escolar.)",
@@ -3360,7 +3360,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean when displayed on the approach to a toll plaza?",
     "pregunta_es": "¿Qué significa esta señal cuando se muestra al acercarse a un peaje?",
-    "imagen": "/assets/images/tollCollectorLane.png",
+    "imagen": "assets/images/tollCollectorLane.png",
     "opciones_es": [
       "Toll collector operating lane. (Carril con cobrador de peaje operando.)",
       "Garda checkpoint to the left. (Control de los Gardaí a la izquierda.)",
@@ -3374,7 +3374,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean when displayed on the approach to a toll plaza?",
     "pregunta_es": "¿Qué significa esta señal cuando se muestra al acercarse a un peaje?",
-    "imagen": "/assets/images/coinBasket.png",
+    "imagen": "assets/images/coinBasket.png",
     "opciones_es": [
       "Coin basket in this lane. (Cesta para monedas en este carril.)",
       "Electronic toll collection. (Cobro de peaje electrónico.)",
@@ -3388,7 +3388,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean when displayed on the approach to a toll plaza?",
     "pregunta_es": "¿Qué significa esta señal cuando se muestra al acercarse a un peaje?",
-    "imagen": "/assets/images/electronicToll.png",
+    "imagen": "assets/images/electronicToll.png",
     "opciones_es": [
       "Electronic toll accepted in any lane. (Peaje electrónico aceptado en cualquier carril.)",
       "Electronic toll out of order in this lane. (Peaje electrónico fuera de servicio en este carril.)",
@@ -3500,7 +3500,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/parkingExceedingWeight.png",
+    "imagen": "assets/images/parkingExceedingWeight.png",
     "opciones_es": [
       "Parking of vehicles exceeding the weight shown is not allowed. (No se permite el estacionamiento de vehículos que excedan el peso mostrado.)",
       "Passing other traffic that exceeds the weight shown is not allowed. (No se permite rebasar a otros vehículos que excedan el peso mostrado.)",
@@ -3514,7 +3514,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking indicate?",
     "pregunta_es": "¿Qué indica esta marca vial?",
-    "imagen": "/assets/images/zebraCrossingPole.png",
+    "imagen": "assets/images/zebraCrossingPole.png",
     "opciones_es": [
       "Zebra crossing. (Cruce de cebra.)",
       "Traffic calming. (Reducción de velocidad / tráfico calmado.)",
@@ -3527,7 +3527,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking indicate?",
     "pregunta_es": "¿Qué indica esta marca vial?",
-    "imagen": "/assets/images/zebraCrossingPole.png",
+    "imagen": "assets/images/zebraCrossingPole.png",
     "opciones_es": [
       "Zebra crossing. (Cruce de cebra.)",
       "Speed control ramp. (Rampa de control de velocidad.)",
@@ -3541,7 +3541,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking mean?",
     "pregunta_es": "¿Qué significa esta marca vial?",
-    "imagen": "/assets/images/noParkingArea.png",
+    "imagen": "assets/images/noParkingArea.png",
     "opciones_es": [
       "No parking in this area. (Prohibido estacionar en esta área.)",
       "Road surface is uneven. (La superficie de la carretera es irregular.)",
@@ -3555,7 +3555,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking mean?",
     "pregunta_es": "¿Qué significa esta marca vial?",
-    "imagen": "/assets/images/boxJunction.png",
+    "imagen": "assets/images/boxJunction.png",
     "opciones_es": [
       "Traffic must not enter unless they can clear the box junction without stopping, or when turning right. (El tráfico no debe entrar a menos que pueda despejar el cruce sin detenerse, o al girar a la derecha.)",
       "Traffic entering a box junction from right and left has the right of way unless continuing straight on. (El tráfico que entra desde la derecha o izquierda tiene prioridad a menos que siga recto.)",
@@ -3569,7 +3569,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking mean?",
     "pregunta_es": "¿Qué significa esta marca vial?",
-    "imagen": "/assets/images/whiteLine.png",
+    "imagen": "assets/images/whiteLine.png",
     "opciones_es": [
       "All traffic must keep to the left of the white line. (Todo el tráfico debe mantenerse a la izquierda de la línea blanca.)",
       "A driver may overtake. (Un conductor puede adelantar.)",
@@ -3583,7 +3583,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking and information plate together mean?",
     "pregunta_es": "¿Qué significan juntas esta marca vial y la placa de información?",
-    "imagen": "/assets/images/parkingNotAllowedAtTimes.png",
+    "imagen": "assets/images/parkingNotAllowedAtTimes.png",
     "opciones_es": [
       "Parking not allowed at the times and days shown. (No se permite estacionar en los horarios y días mostrados.)",
       "Taxi parking only outside the times and days shown. (Estacionamiento de taxis solo fuera de los horarios y días mostrados.)",
@@ -3597,7 +3597,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking and information plate together mean?",
     "pregunta_es": "¿Qué significan juntas esta marca vial y la placa de información?",
-    "imagen": "/assets/images/parkingNotAllowedAtTimes.png",
+    "imagen": "assets/images/parkingNotAllowedAtTimes.png",
     "opciones_es": [
       "Parking not allowed at the times shown. (No se permite estacionar en los horarios mostrados.)",
       "Taxi rank at times shown. (Parada de taxis en los horarios mostrados.)",
@@ -3611,7 +3611,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking mean?",
     "pregunta_es": "¿Qué significa esta marca vial?",
-    "imagen": "/assets/images/brokenWhiteLine.png",
+    "imagen": "assets/images/brokenWhiteLine.png",
     "opciones_es": [
       "A driver must not cross the broken white line unless it is safe to do so. (Un conductor no debe cruzar la línea blanca discontinua a menos que sea seguro hacerlo.)",
       "A driver may not park along this road. (Un conductor no puede estacionar a lo largo de esta carretera.)",
@@ -3625,7 +3625,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What do these road markings mean?",
     "pregunta_es": "¿Qué significan estas marcas viales?",
-    "imagen": "/assets/images/whiteLinesAhead.png",
+    "imagen": "assets/images/whiteLinesAhead.png",
     "opciones_es": [
       "Continuous white lines ahead. (Líneas blancas continuas más adelante.)",
       "No parking allowed. (No se permite estacionar.)",
@@ -3639,7 +3639,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "If driving from A to B, what do these road markings mean?",
     "pregunta_es": "Si conduce de A a B, ¿qué significan estas marcas viales?",
-    "imagen": "/assets/images/overtakeIfSafe.png",
+    "imagen": "assets/images/overtakeIfSafe.png",
     "opciones_es": [
       "A driver may overtake if it is safe to do so. (Un conductor puede adelantar si es seguro hacerlo.)",
       "Road narrows ahead. (La carretera se estrecha más adelante.)",
@@ -3653,7 +3653,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "If driving from A to B, what do these road markings mean?",
     "pregunta_es": "Si conduce de A a B, ¿qué significan estas marcas viales?",
-    "imagen": "/assets/images/cantOvertake.png",
+    "imagen": "assets/images/cantOvertake.png",
     "opciones_es": [
       "A driver may not cross the lines to overtake. (Un conductor no puede cruzar las líneas para adelantar.)",
       "A driver may cross the lines to overtake. (Un conductor puede cruzar las líneas para adelantar.)",
@@ -3667,7 +3667,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking mean?",
     "pregunta_es": "¿Qué significa esta marca vial?",
-    "imagen": "/assets/images/noEntry.png",
+    "imagen": "assets/images/noEntry.png",
     "opciones_es": [
       "No entry. (Prohibido el paso / No entrar.)",
       "Pedestrian crossing. (Cruce peatonal.)",
@@ -3681,7 +3681,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking mean?",
     "pregunta_es": "¿Qué significa esta marca vial?",
-    "imagen": "/assets/images/noParkingAnytime.png",
+    "imagen": "assets/images/noParkingAnytime.png",
     "opciones_es": [
       "Parking prohibited at all times. (Estacionamiento prohibido en todo momento.)",
       "Keep outside the yellow lines. (Manténgase fuera de las líneas amarillas.)",
@@ -3695,7 +3695,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this road marking mean?",
     "pregunta_es": "¿Qué significa esta marca vial?",
-    "imagen": "/assets/images/whiteLine.png",
+    "imagen": "assets/images/whiteLine.png",
     "opciones_es": [
       "Drivers must keep left of the continuous white line. (Los conductores deben mantenerse a la izquierda de la línea blanca continua.)",
       "Oncoming traffic may cross the line to overtake. (El tráfico de frente puede cruzar la línea para adelantar.)",
@@ -3709,7 +3709,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does the broken yellow line road marking mean?",
     "pregunta_es": "¿Qué significa la marca vial de línea amarilla discontinua?",
-    "imagen": "/assets/images/hardshoulder.png",
+    "imagen": "assets/images/hardshoulder.png",
     "opciones_es": [
       "The edge of the carriageway or hard shoulder. (El borde de la calzada o el arcén.)",
       "Parking prohibited at all times. (Estacionamiento prohibido en todo momento.)",
@@ -3723,7 +3723,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this traffic light mean?",
     "pregunta_es": "¿Qué significa este semáforo?",
-    "imagen": "/assets/images/yellowLight.png",
+    "imagen": "assets/images/yellowLight.png",
     "opciones_es": [
       "Stop, unless it is unsafe to do so. (Deténgase, a menos que no sea seguro hacerlo.)",
       "The traffic lights are out of order. (Los semáforos están fuera de servicio.)",
@@ -3737,7 +3737,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this traffic light mean?",
     "pregunta_es": "¿Qué significa este semáforo?",
-    "imagen": "/assets/images/redLightGreenArrowRight.png",
+    "imagen": "assets/images/redLightGreenArrowRight.png",
     "opciones_es": [
       "The driver may proceed in the direction of the green arrow if the way is clear. (El conductor puede continuar en la dirección de la flecha verde si el camino está despejado.)",
       "The driver must stop and wait until the full green light appears. (El conductor debe detenerse y esperar hasta que aparezca la luz verde completa.)",
@@ -3750,7 +3750,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this traffic light mean?",
     "pregunta_es": "¿Qué significa este semáforo?",
-    "imagen": "/assets/images/redLightGreenArrowLeft.png",
+    "imagen": "assets/images/redLightGreenArrowLeft.png",
     "opciones_es": [
       "Traffic turning left may proceed if the way is clear. (El tráfico que gira a la izquierda puede continuar si el camino está despejado.)",
       "All traffic must turn left only. (Todo el tráfico debe girar a la izquierda únicamente.)",
@@ -3764,7 +3764,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this traffic light mean?",
     "pregunta_es": "¿Qué significa este semáforo?",
-    "imagen": "/assets/images/redLight.png",
+    "imagen": "assets/images/redLight.png",
     "opciones_es": [
       "Traffic must stop at the traffic light. (El tráfico debe detenerse ante el semáforo.)",
       "Traffic may stop if safe to do so. (El tráfico puede detenerse si es seguro hacerlo.)",
@@ -3777,7 +3777,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this traffic light mean?",
     "pregunta_es": "¿Qué significa este semáforo?",
-    "imagen": "/assets/images/greenLight.png",
+    "imagen": "assets/images/greenLight.png",
     "opciones_es": [
       "Traffic may proceed if the way is clear. (El tráfico puede continuar si el camino está despejado.)",
       "Traffic must stop at the traffic light. (El tráfico debe detenerse ante el semáforo.)",
@@ -3819,7 +3819,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does a flashing amber arrow pointing left at a traffic light mean?",
     "pregunta_es": "¿Qué significa una flecha ámbar intermitente que apunta a la izquierda en un semáforo?",
-    "imagen": "/assets/images/yellowLightYellowArrow.png",
+    "imagen": "assets/images/yellowLightYellowArrow.png",
     "opciones_es": [
       "A driver may turn left but must yield to traffic on the other road. (Un conductor puede girar a la izquierda pero debe ceder el paso al tráfico de la otra carretera.)",
       "A driver may proceed before traffic on the other road. (Un conductor puede avanzar antes que el tráfico de la otra carretera.)",
@@ -4000,7 +4000,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does a continuous white line along the centre of the road mean?",
     "pregunta_es": "¿Qué significa una línea blanca continua a lo largo del centro de la carretera?",
-    "imagen": "/assets/images/landscapeWhiteLine.png",
+    "imagen": "assets/images/landscapeWhiteLine.png",
     "opciones_es": [
       "No U-turn allowed. (Prohibido dar la vuelta en U.)",
       "Traffic can overtake. (El tráfico puede adelantar.)",
@@ -4014,7 +4014,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does a continuous white line in the centre of the road mean?",
     "pregunta_es": "¿Qué significa una línea blanca continua en el centro de la carretera?",
-    "imagen": "/assets/images/landscapeWhiteLine.png",
+    "imagen": "assets/images/landscapeWhiteLine.png",
     "opciones_es": [
       "Vehicles may not cross or drive over the line. (Los vehículos no pueden cruzar ni circular sobre la línea.)",
       "Vehicles may cross the line for a short time. (Los vehículos pueden cruzar la línea por poco tiempo.)",
@@ -4028,7 +4028,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What should a driver do when approaching traffic lights that change from green to amber?",
     "pregunta_es": "¿Qué debe hacer un conductor al acercarse a semáforos que cambian de verde a ámbar?",
-    "imagen": "/assets/images/question143LegalMatters.png",
+    "imagen": "assets/images/question143LegalMatters.png",
     "opciones_es": [
       "Stop, unless it is unsafe to do so. (Detenerse, a menos que no sea seguro hacerlo.)",
       "Accelerate to clear the junction. (Acelerar para despejar el cruce.)",
@@ -4042,7 +4042,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What should a driver do at an amber traffic light?",
     "pregunta_es": "¿Qué debe hacer un conductor ante una luz de semáforo ámbar?",
-    "imagen": "/assets/images/question144LegalMatters.png",
+    "imagen": "assets/images/question144LegalMatters.png",
     "opciones_es": [
       "Stop at the line unless it is not safe to do so. (Detenerse en la línea a menos que no sea seguro hacerlo.)",
       "Make sure to pass the lights before they turn red. (Asegurarse de pasar antes de que cambie a rojo.)",
@@ -4084,7 +4084,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/147LM.png",
+    "imagen": "assets/images/147LM.png",
     "opciones_es": [
       "Junction ahead with roads of lesser importance. (Cruce adelante con carreteras de menor importancia.)",
       "Junction ahead with roads of greater importance. (Cruce adelante con carreteras de mayor importancia.)",
@@ -4098,7 +4098,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/148LM.png",
+    "imagen": "assets/images/148LM.png",
     "opciones_es": [
       "Y-junction where main road bears to the left. (Cruce en Y donde la carretera principal gira a la izquierda.)",
       "Y-junction where vehicles must go left. (Cruce en Y donde los vehículos deben ir a la izquierda.)",
@@ -4112,7 +4112,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/149LM.png",
+    "imagen": "assets/images/149LM.png",
     "opciones_es": [
       "Staggered crossroads ahead with roads of equal importance. (Cruce escalonado adelante con carreteras de igual importancia.)",
       "Cul-de-sac to both left and right. (Calle sin salida tanto a la izquierda como a la derecha.)",
@@ -4125,7 +4125,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/150LM.png",
+    "imagen": "assets/images/150LM.png",
     "opciones_es": [
       "Crossroads ahead with roads of equal importance. (Cruce de caminos adelante con carreteras de igual importancia.)",
       "Major road ahead. (Carretera principal adelante.)",
@@ -4138,7 +4138,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/151LM.png",
+    "imagen": "assets/images/151LM.png",
     "opciones_es": [
       "T-junction ahead with roads of equal importance. (Cruce en T adelante con carreteras de igual importancia.)",
       "T-junction ahead with dual carriageway. (Cruce en T adelante con autovía.)",
@@ -4152,7 +4152,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/152LM.png",
+    "imagen": "assets/images/152LM.png",
     "opciones_es": [
       "Y-junction ahead with roads of equal importance. (Cruce en Y adelante con carreteras de igual importancia.)",
       "Minor road ahead. (Carretera secundaria adelante.)",
@@ -4166,7 +4166,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/153LM.png",
+    "imagen": "assets/images/153LM.png",
     "opciones_es": [
       "Y-junction ahead with roads of equal importance. (Cruce en Y adelante con carreteras de igual importancia.)",
       "Minor road ahead. (Carretera secundaria adelante.)",
@@ -4179,7 +4179,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/154LM.png",
+    "imagen": "assets/images/154LM.png",
     "opciones_es": [
       "Crossroads with major road ahead. (Cruce de caminos con carretera principal adelante.)",
       "Crossroads with dual carriageway ahead. (Cruce de caminos con autovía adelante.)",
@@ -4193,7 +4193,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/155LM.png",
+    "imagen": "assets/images/155LM.png",
     "opciones_es": [
       "T-junction ahead with a road of major importance. (Cruce en T adelante con una carretera de gran importancia.)",
       "Cul-de-sac to the right. (Calle sin salida a la derecha.)",
@@ -4207,7 +4207,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/156LM.png",
+    "imagen": "assets/images/156LM.png",
     "opciones_es": [
       "Crossroads with dual carriageway ahead. (Cruce de caminos con autovía adelante.)",
       "Level crossing ahead guarded by gates. (Paso a nivel adelante protegido por barreras/puertas.)",
@@ -4221,7 +4221,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/157LM.png",
+    "imagen": "assets/images/157LM.png",
     "opciones_es": [
       "T-junction with dual carriageway ahead. (Cruce en T con autovía adelante.)",
       "Low bridge ahead. (Puente bajo adelante.)",
@@ -4235,7 +4235,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/158LM.png",
+    "imagen": "assets/images/158LM.png",
     "opciones_es": [
       "Traffic merging from the left. (Tráfico incorporándose desde la izquierda.)",
       "End of dual carriageway ahead. (Fin de autovía adelante.)",
@@ -4249,7 +4249,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/159LM.png",
+    "imagen": "assets/images/159LM.png",
     "opciones_es": [
       "Traffic merging/diverging ahead. (Tráfico incorporándose/bifurcándose adelante.)",
       "Road narrows briefly ahead. (La carretera se estrecha brevemente adelante.)",
@@ -4263,7 +4263,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/160LM.png",
+    "imagen": "assets/images/160LM.png",
     "opciones_es": [
       "Roundabout ahead. (Glorieta/Rotonda adelante.)",
       "Loop road ahead. (Circuito cerrado adelante.)",
@@ -4276,7 +4276,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/161LM.png",
+    "imagen": "assets/images/161LM.png",
     "opciones_es": [
       "Mini-roundabout ahead. (Mini-rotonda adelante.)",
       "Roadworks ahead, diversion in operation. (Obras viales adelante, desvío en operación.)",
@@ -4289,7 +4289,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/162LM.png",
+    "imagen": "assets/images/162LM.png",
     "opciones_es": [
       "Dangerous corner ahead. (Esquina peligrosa adelante.)",
       "Dangerous bend ahead. (Curva peligrosa adelante.)",
@@ -4303,7 +4303,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/163LM.png",
+    "imagen": "assets/images/163LM.png",
     "opciones_es": [
       "Dangerous bend ahead. (Curva peligrosa adelante.)",
       "Turn left. (Gire a la izquierda.)",
@@ -4316,7 +4316,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/164LM.png",
+    "imagen": "assets/images/164LM.png",
     "opciones_es": [
       "Series of dangerous corners ahead. (Serie de esquinas peligrosas adelante.)",
       "Overhead electric cables. (Cables eléctricos aéreos.)",
@@ -4329,7 +4329,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/165LM.png",
+    "imagen": "assets/images/165LM.png",
     "opciones_es": [
       "Series of dangerous bends ahead. (Serie de curvas peligrosas adelante.)",
       "Series of dangerous corners ahead. (Serie de esquinas peligrosas adelante.)",
@@ -4342,7 +4342,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/166LM.png",
+    "imagen": "assets/images/166LM.png",
     "opciones_es": [
       "Sharp change of direction to the right. (Cambio brusco de dirección a la derecha.)",
       "Sharp change of direction to the left. (Cambio brusco de dirección a la izquierda.)",
@@ -4356,7 +4356,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/167LM.png",
+    "imagen": "assets/images/167LM.png",
     "opciones_es": [
       "Road narrows on the left. (La carretera se estrecha por la izquierda.)",
       "The driver must overtake on the right only. (El conductor debe adelantar solo por la derecha.)",
@@ -4370,7 +4370,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/168LM.png",
+    "imagen": "assets/images/168LM.png",
     "opciones_es": [
       "Road narrows on both sides. (La carretera se estrecha por ambos lados.)",
       "Dual carriageway ahead. (Autovía adelante.)",
@@ -4383,7 +4383,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/169LM.png",
+    "imagen": "assets/images/169LM.png",
     "opciones_es": [
       "Road divides ahead. (La carretera se divide adelante.)",
       "Railway tunnel ahead. (Túnel ferroviario adelante.)",
@@ -4397,7 +4397,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/170LM.png",
+    "imagen": "assets/images/170LM.png",
     "opciones_es": [
       "Dual carriageway ends. (Fin de autovía.)",
       "Tunnel ahead. (Túnel adelante.)",
@@ -4410,7 +4410,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/171LM.png",
+    "imagen": "assets/images/171LM.png",
     "opciones_es": [
       "Two-way traffic ahead. (Tráfico de doble sentido adelante.)",
       "One-way street ahead. (Calle de sentido único adelante.)",
@@ -4423,7 +4423,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/172LM.png",
+    "imagen": "assets/images/172LM.png",
     "opciones_es": [
       "Steep descent ahead. (Descenso pronunciado adelante.)",
       "River or unprotected quay ahead. (Río o muelle sin protección adelante.)",
@@ -4437,7 +4437,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/173LM.png",
+    "imagen": "assets/images/173LM.png",
     "opciones_es": [
       "Steep ascent ahead. (Ascenso pronunciado adelante.)",
       "Humpback bridge ahead. (Puente de lomo de asno adelante.)",
@@ -4450,7 +4450,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/174LM.png",
+    "imagen": "assets/images/174LM.png",
     "opciones_es": [
       "Low bridge up ahead. (Puente bajo más adelante.)",
       "Restricted weight limit for road segment indicated. (Límite de peso restringido para el tramo indicado.)",
@@ -4464,7 +4464,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/175LM.png",
+    "imagen": "assets/images/175LM.png",
     "opciones_es": [
       "Overhead electric cables. (Cables eléctricos aéreos.)",
       "Sharp corners ahead. (Esquinas cerradas adelante.)",
@@ -4478,7 +4478,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/176LM.png",
+    "imagen": "assets/images/176LM.png",
     "opciones_es": [
       "Level crossing ahead unguarded by gates or barriers. (Paso a nivel adelante sin protección de puertas o barreras.)",
       "Level crossing ahead guarded by gates or barriers. (Paso a nivel adelante protegido por puertas o barreras.)",
@@ -4492,7 +4492,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/177LM.png",
+    "imagen": "assets/images/177LM.png",
     "opciones_es": [
       "Level crossing ahead guarded by gates or barriers. (Paso a nivel adelante protegido por puertas o barreras.)",
       "Farm machinery crossing ahead. (Cruce de maquinaria agrícola adelante.)",
@@ -4506,7 +4506,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/178LM.png",
+    "imagen": "assets/images/178LM.png",
     "opciones_es": [
       "Level crossing ahead protected by lights and barriers. (Paso a nivel adelante protegido por luces y barreras.)",
       "Railway station ahead. (Estación de tren adelante.)",
@@ -4520,7 +4520,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/179LM.png",
+    "imagen": "assets/images/179LM.png",
     "opciones_es": [
       "The driver must stop when red lights show. (El conductor debe detenerse cuando se muestren las luces rojas.)",
       "Stop and wait for amber light before proceeding. (Deténgase y espere a la luz ámbar antes de continuar.)",
@@ -4533,7 +4533,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/180LM.png",
+    "imagen": "assets/images/180LM.png",
     "opciones_es": [
       "Automatic level crossing ahead. (Paso a nivel automático adelante.)",
       "Attended level crossing ahead. (Paso a nivel con vigilancia adelante.)",
@@ -4546,7 +4546,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/181LM.png",
+    "imagen": "assets/images/181LM.png",
     "opciones_es": [
       "Sharp rise in the road ahead - for example, a humpback bridge. (Elevación brusca en la carretera adelante, por ejemplo, un puente de lomo de asno.)",
       "Traffic island ahead. (Isleta de tráfico adelante.)",
@@ -4560,7 +4560,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/182LM.png",
+    "imagen": "assets/images/182LM.png",
     "opciones_es": [
       "Sharp depression or dip ahead. (Depresión o hundimiento brusco adelante.)",
       "Road flooded ahead. (Carretera inundada adelante.)",
@@ -4574,7 +4574,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/183LM.png",
+    "imagen": "assets/images/183LM.png",
     "opciones_es": [
       "Series of bumps or hollows ahead. (Serie de baches o depresiones adelante.)",
       "Steep hills ahead. (Colinas empinadas adelante.)",
@@ -4588,7 +4588,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/184LM.png",
+    "imagen": "assets/images/184LM.png",
     "opciones_es": [
       "Slippery road ahead. (Carretera resbaladiza adelante.)",
       "Series of bends ahead. (Serie de curvas adelante.)",
@@ -4602,7 +4602,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/185LM.png",
+    "imagen": "assets/images/185LM.png",
     "opciones_es": [
       "Unprotected quay, canal or river ahead. (Muelle, canal o río sin protección adelante.)",
       "Road likely to flood. (Carretera con probabilidad de inundación.)",
@@ -4615,7 +4615,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/186LM.png",
+    "imagen": "assets/images/186LM.png",
     "opciones_es": [
       "Traffic signals ahead. (Semáforos adelante.)",
       "Railway level crossing ahead. (Paso a nivel ferroviario adelante.)",
@@ -4629,7 +4629,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/187LM.png",
+    "imagen": "assets/images/187LM.png",
     "opciones_es": [
       "School ahead. (Escuela adelante.)",
       "Children's play area ahead. (Área de juegos infantiles adelante.)",
@@ -4643,7 +4643,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/188LM.png",
+    "imagen": "assets/images/188LM.png",
     "opciones_es": [
       "School children crossing ahead. (Cruce de niños en edad escolar adelante.)",
       "Level crossing ahead with pedestrian walkway. (Paso a nivel adelante con pasarela peatonal.)",
@@ -4656,7 +4656,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/188LM.png",
+    "imagen": "assets/images/188LM.png",
     "opciones_es": [
       "School children crossing ahead. (Cruce de niños en edad escolar adelante.)",
       "School playground ahead. (Patio de recreo escolar adelante.)",
@@ -4669,7 +4669,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What do these signs together mean?",
     "pregunta_es": "¿Qué significan estas señales juntas?",
-    "imagen": "/assets/images/190LM.png",
+    "imagen": "assets/images/190LM.png",
     "opciones_es": [
       "Beware of children crossing. (Cuidado con los niños cruzando.)",
       "Loose chippings on the road ahead. (Gravilla suelta en la carretera adelante.)",
@@ -4682,7 +4682,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/191LM.png",
+    "imagen": "assets/images/191LM.png",
     "opciones_es": [
       "Accompanied horses and ponies ahead. (Caballos y ponis acompañados adelante.)",
       "Entrance to horse riding school. (Entrada a escuela de equitación.)",
@@ -4696,7 +4696,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/192LM.png",
+    "imagen": "assets/images/192LM.png",
     "opciones_es": [
       "Possibility of cattle or farm animals ahead. (Posibilidad de ganado o animales de granja adelante.)",
       "Livestock mart ahead. (Mercado de ganado adelante.)",
@@ -4709,7 +4709,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/193LM.png",
+    "imagen": "assets/images/193LM.png",
     "opciones_es": [
       "Possibility of sheep ahead. (Posibilidad de ovejas adelante.)",
       "Abattoir ahead. (Matadero adelante.)",
@@ -4722,7 +4722,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/194LM.png",
+    "imagen": "assets/images/194LM.png",
     "opciones_es": [
       "Deer or wild animals ahead. (Ciervos o animales salvajes adelante.)",
       "Stag hunting ahead. (Caza de ciervos adelante.)",
@@ -4735,7 +4735,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/195LM.png",
+    "imagen": "assets/images/195LM.png",
     "opciones_es": [
       "Crosswinds ahead. (Vientos laterales adelante.)",
       "Airport ahead. (Aeropuerto adelante.)",
@@ -4749,7 +4749,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/196LM.png",
+    "imagen": "assets/images/196LM.png",
     "opciones_es": [
       "Pedestrian crossing ahead. (Cruce peatonal adelante.)",
       "Lane reserved for pedestrians. (Carril reservado para peatones.)",
@@ -4763,7 +4763,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/197LM.png",
+    "imagen": "assets/images/197LM.png",
     "opciones_es": [
       "Tunnel ahead. (Túnel adelante.)",
       "Low bridge ahead. (Puente bajo adelante.)",
@@ -4776,7 +4776,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/198LM.png",
+    "imagen": "assets/images/198LM.png",
     "opciones_es": [
       "Danger of falling rocks ahead. (Peligro de desprendimiento de rocas adelante.)",
       "Rugged coast ahead. (Costa escarpada adelante.)",
@@ -4789,7 +4789,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/199LM.png",
+    "imagen": "assets/images/199LM.png",
     "opciones_es": [
       "Possibility of low flying aircraft. (Posibilidad de aviones volando bajo.)",
       "Direction of prevailing wind. (Dirección del viento predominante.)",
@@ -4802,7 +4802,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/200LM.png",
+    "imagen": "assets/images/200LM.png",
     "opciones_es": [
       "A driver must drive on the left-hand side. (Un conductor debe circular por el lado izquierdo.)",
       "A driver must overtake on the left-hand side. (Un conductor debe adelantar por el lado izquierdo.)",
@@ -4815,7 +4815,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/201LM.png",
+    "imagen": "assets/images/201LM.png",
     "opciones_es": [
       "Tramway crossing ahead. (Cruce de tranvía adelante.)",
       "Level crossing ahead. (Paso a nivel adelante.)",
@@ -4829,7 +4829,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/202LM.png",
+    "imagen": "assets/images/202LM.png",
     "opciones_es": [
       "Roadworks ahead. (Obras viales adelante.)",
       "Flagman ahead. (Señalista adelante.)",
@@ -4842,7 +4842,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/203LM.png",
+    "imagen": "assets/images/203LM.png",
     "opciones_es": [
       "Slippery road. (Carretera resbaladiza.)",
       "Series of bends ahead. (Serie de curvas adelante.)",
@@ -4855,7 +4855,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/204LM.png",
+    "imagen": "assets/images/204LM.png",
     "opciones_es": [
       "Road narrows from left. (La carretera se estrecha por la izquierda.)",
       "Left-hand lane has an uneven surface. (El carril izquierdo tiene una superficie irregular.)",
@@ -4868,7 +4868,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/205LM.png",
+    "imagen": "assets/images/205LM.png",
     "opciones_es": [
       "Road narrows from right. (La carretera se estrecha por la derecha.)",
       "A driver may overtake on the right only. (Un conductor puede adelantar solo por la derecha.)",
@@ -4882,7 +4882,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/206LM.png",
+    "imagen": "assets/images/206LM.png",
     "opciones_es": [
       "Road narrows on both sides. (La carretera se estrecha por ambos lados.)",
       "Traffic merging from both sides. (Tráfico incorporándose desde ambos lados.)",
@@ -4896,7 +4896,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/207LM.png",
+    "imagen": "assets/images/207LM.png",
     "opciones_es": [
       "Flagman ahead. (Señalista adelante.)",
       "Football stadium ahead. (Estadio de fútbol adelante.)",
@@ -4910,7 +4910,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/208LM.png",
+    "imagen": "assets/images/208LM.png",
     "opciones_es": [
       "Temporary traffic signals ahead. (Semáforos temporales adelante.)",
       "Railway crossing ahead. (Paso ferroviario adelante.)",
@@ -4923,7 +4923,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/209LM.png",
+    "imagen": "assets/images/209LM.png",
     "opciones_es": [
       "Two-way traffic. (Tráfico de doble sentido.)",
       "One-way street. (Calle de sentido único.)",
@@ -4937,7 +4937,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/210LM.png",
+    "imagen": "assets/images/210LM.png",
     "opciones_es": [
       "Nearside lane of two closed. (Carril izquierdo de dos cerrado.)",
       "Traffic in nearside lane must turn left. (El tráfico en el carril izquierdo debe girar a la izquierda.)",
@@ -4951,7 +4951,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/211LM.png",
+    "imagen": "assets/images/211LM.png",
     "opciones_es": [
       "Nearside lane of three closed. (Carril izquierdo de tres cerrado.)",
       "Do not drive on the hard shoulder. (No circule por el arcén.)",
@@ -4964,7 +4964,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/212LM.png",
+    "imagen": "assets/images/212LM.png",
     "opciones_es": [
       "Offside lane closed ahead. (Carril derecho cerrado adelante.)",
       "Corner ahead on offside lane. (Curva adelante en el carril derecho.)",
@@ -4978,7 +4978,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What do these signs together mean?",
     "pregunta_es": "¿Qué significan estas señales juntas?",
-    "imagen": "/assets/images/213LM.png",
+    "imagen": "assets/images/213LM.png",
     "opciones_es": [
       "End of detour. (Fin del desvío.)",
       "End of road. (Fin de la carretera.)",
@@ -4991,7 +4991,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/214LM.png",
+    "imagen": "assets/images/214LM.png",
     "opciones_es": [
       "Traffic should cross back to the left-hand lane ahead. (El tráfico debe volver al carril de la izquierda más adelante.)",
       "Slow lane ahead for heavy traffic. (Carril lento adelante para tráfico pesado.)",
@@ -5005,7 +5005,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/215LM.png",
+    "imagen": "assets/images/215LM.png",
     "opciones_es": [
       "Traffic should cross out to the right-hand lane ahead. (El tráfico debe desviarse hacia el carril de la derecha más adelante.)",
       "End of \"no overtaking\" zone. (Fin de la zona de \"prohibido adelantar\".)",
@@ -5019,7 +5019,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/216LM.png",
+    "imagen": "assets/images/216LM.png",
     "opciones_es": [
       "Start of central reserve or obstruction. (Inicio de mediana central u obstrucción.)",
       "Heavy vehicles have priority. (Los vehículos pesados tienen prioridad.)",
@@ -5033,7 +5033,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/217LM.png",
+    "imagen": "assets/images/217LM.png",
     "opciones_es": [
       "End of central reserve or obstruction. (Fin de mediana central u obstrucción.)",
       "Beware of vehicle with a wide load. (Cuidado con vehículos de carga ancha.)",
@@ -5047,7 +5047,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/218LM.png",
+    "imagen": "assets/images/218LM.png",
     "opciones_es": [
       "Tram lane on left. (Carril de tranvía a la izquierda.)",
       "Trams emerging from left. (Tranvías saliendo por la izquierda.)",
@@ -5061,7 +5061,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/219LM.png",
+    "imagen": "assets/images/219LM.png",
     "opciones_es": [
       "Loose chippings on road. (Gravilla suelta en la carretera.)",
       "Uneven surface on left. (Superficie irregular a la izquierda.)",
@@ -5074,7 +5074,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/220LM.png",
+    "imagen": "assets/images/220LM.png",
     "opciones_es": [
       "Traffic queues likely ahead. (Probabilidad de colas de tráfico adelante.)",
       "Three vehicles may queue ahead. (Tres vehículos pueden hacer cola adelante.)",
@@ -5088,7 +5088,7 @@
     "cat": "Legal Matters / Rules of the Road",
     "pregunta_en": "What does this sign mean?",
     "pregunta_es": "¿Qué significa esta señal?",
-    "imagen": "/assets/images/221LM.png",
+    "imagen": "assets/images/221LM.png",
     "opciones_es": [
       "Uneven surface. (Superficie irregular.)",
       "Parking on left only. (Estacionamiento solo a la izquierda.)",
