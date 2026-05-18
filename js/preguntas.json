@@ -540,7 +540,7 @@
     "pregunta_en": "What does the speed rating of a tyre indicate?",
     "pregunta_es": "¿Qué indica el índice de velocidad de una llanta?",
     "imagen": null,
-    "оpciones_es": [
+    "opciones_es": [
       "The maximum speed for which the tyre is designed. (La velocidad máxima para la que está diseñada la llanta.)",
       "The maximum speed the vehicle can be driven at. (La velocidad máxima a la que se puede conducir el vehículo.)",
       "The minimum speed for which the tyre is designed. (La velocidad mínima para la que está diseñada la llanta.)"
